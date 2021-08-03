@@ -63,9 +63,23 @@ As reuniões são agendadas toda semana para dividir tarefas e discutir sobre qu
 
 * <b>Releases curtos:</b> As liberações de pequenas versões funcionais do projeto auxiliam muito no processo de aceitação por parte do cliente que já pode testar uma parte do sistema. Além de que a chance de reverter os erros/bugs do sistema ficam mais fáceis de consertar por voltar para uma versão mais perto da destinada.
 
+# Ferramentas
+
+ **Ferramenta** | **Nome** | **Finalidade**
+ ---------------| ----------- | ----------
+<img src="/assets/ferramentas/GithubLogo.png" alt="Github" width="100"/> | Github | Github é uma ferramenta para controle de versionamento e armazenamento dos arquivos de documentação.
+<img src="/assets/ferramentas/lucidChartLogo.png" alt="Lucidchart" width="100"/> | Lucid Chart | Lucid Chart é uma ferramenta que permite criar desenhos, gráficos e diagramas de forma eficiênte e simples.
+<img src="/assets/ferramentas/MicrosoftTeamsLogo.png" alt="Teams" width="100"/> | Microsoft Teams | Plataforma para realização de reuniões em chamada de voz e vídeo.
+<img src="/assets/ferramentas/TelegramLogo.png" alt="Telegram" width="100"/> | Telegram | Uma das maiores ferramentas de comunicação da atualidade, irá permitir ao grupo uma forma de comunicação de forma ágil e facil durante todo o projeto.
+<img src="/assets/ferramentas/VScodeLogo.png" alt="VScode" width="100"/> | Visual Studio Code | Principal ferramenta de edição de textos no projto.
+<img src="/assets/ferramentas/MkdocsLogo.png" alt="MKdocs" width="100"/> | MKdocs | Gerador de site estático minimalista, será usado para criar o site contendo a documentação do projeto.
+
+
+
 
 |Data|Versão|Alteração|Responsável(eis)|
 |:--:|:----:|:-------:|:---:|
 | 03/08/2021 | 1.0 | Criação do documento | João Victor |
 | 03/08/2021 | 1.1 | Adicionando metodologia | Gabriel Avelino |
- 03/08/2021 | 1.2 | Adicionando a tabela do cronograma | Ítalo Serra |
+| 03/08/2021 | 1.2 | Adicionando a tabela do cronograma | Ítalo Serra |
+| 03/08/2021 | 1.3 | Adicionado tabela de ferramentas | Guilherme Vial |

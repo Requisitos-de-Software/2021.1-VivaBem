@@ -11,7 +11,7 @@ nav:
     - Planejamento:
       - "Cronograma": "Planejamento/cronograma.md"
       - "Ferramentas": "Planejamento/ferramentas.md"
-      - "Cronograma": ""
+      - "Planejamento": "Planejamento/planejamento.md"
 extra_css:
   - "style/index.css"
 
