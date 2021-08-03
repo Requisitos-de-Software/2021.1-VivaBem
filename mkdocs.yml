@@ -1,0 +1,20 @@
+site_name: VivaBem 
+repo_url: https://github.com/Requisitos-de-Software/2021.1-VivaBem/
+theme:
+    name: material 
+    logo: assets/images/vivaBem.svg
+    favicon: assets/images/vivaBem.svg
+    palette:
+        primary: light blue
+nav:
+    - Home: index.md
+    - Planejamento:
+      - "Cronograma": "Planejamento/cronograma.md"
+      - "Ferramentas": ""
+      - "Cronograma": ""
+extra_css:
+  - "style/index.css"
+
+plugins:
+  - search:
+      lang: pt

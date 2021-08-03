@@ -1,0 +1,66 @@
+:root>*{
+	--md-primary-fg-color: #39ACEB; 
+	--md-default-fg-color--lightest: #39ACEB;
+	--md-footer-bg-color: #39ACEB;
+	--md-footer-bg-color--dark: #39ACEB 
+}
+
+.md-header{
+	background-color: #39ACEB;
+}
+.md-footer-nav{
+	background-color: #39ACEB;
+}
+.md-footer-meta{
+	background-color: #39ACEB;
+}
+.md-nav__title{
+	background-color: #39ACEB;
+}
+.md-footer{
+	background-color: #39ACEB;
+	color: var(--md-footer-fg-color);
+}
+
+thead{
+	background-color: linear-gradient(90deg, rgba(58,175,234,1) 0%, rgba(91,137,244,1) 50%, rgba(133,94,255,1) 100%)
+}
+
+.fotos_div{
+	display: inline-block;
+	width:100%;
+}
+
+.hover11 span
+{
+	display: none;
+}
+
+.hover11{
+	display:inline-block;
+}
+.hover11 figure img {
+  	display: inline-block;
+	opacity: 1;
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+.hover11 figure:hover img {
+	opacity: .5;
+}
+
+.hover11 figure:hover span{
+	display: grid;
+	position: relative;
+	bottom: 70px;
+	right: 5px;
+	text-align: center;
+}
+
+.fotos_div img{
+	display: inline-block;
+	margin-right: 10px;
+	border-radius: 100%;
+	width: 100px;
+	height: 100px;
+}
