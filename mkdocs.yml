@@ -10,7 +10,7 @@ nav:
     - Home: index.md
     - Planejamento:
       - "Cronograma": "Planejamento/cronograma.md"
-      - "Ferramentas": ""
+      - "Ferramentas": "Planejamento/ferramentas.md"
       - "Cronograma": ""
 extra_css:
   - "style/index.css"
