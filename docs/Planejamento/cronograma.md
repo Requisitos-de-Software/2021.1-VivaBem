@@ -12,3 +12,9 @@
 |V|Análise de Requisitos| 12/09-18/09 | Verificação e Validação |
 |VI|Pré-Rastreabilidade| 19/09-09/10 | Gerência de Desenvolvimento de Software orientada à baseline de Requisitos | 
 |VII|Projeto Final| 10/10-20/10 | Desenvolver a apresentação final do projeto |
+
+### Versionamento
+
+|Data|Versão|Alteração|Responsável(eis)|
+|:--:|:----:|:-------:|:---:|
+| 03/08/2021 | 1.0 | Tabela do cronograma | Ítalo Serra |
