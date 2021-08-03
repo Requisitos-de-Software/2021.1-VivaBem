@@ -8,10 +8,7 @@ theme:
         primary: light blue
 nav:
     - Home: index.md
-    - Planejamento:
-      - "Cronograma": "Planejamento/cronograma.md"
-      - "Ferramentas": "Planejamento/ferramentas.md"
-      - "Planejamento": "Planejamento/planejamento.md"
+    - Planejamento: "Planejamento/planejamento.md"
 extra_css:
   - "style/index.css"
 
