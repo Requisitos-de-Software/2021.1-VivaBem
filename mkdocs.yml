@@ -2,8 +2,8 @@ site_name: VivaBem
 repo_url: https://github.com/Requisitos-de-Software/2021.1-VivaBem/
 theme:
     name: material 
-    logo: /img/vivaBem.svg
-    favicon: assets/images/vivaBem.svg
+    logo: img/vivaBem.svg
+    favicon: img/vivaBem.svg
     palette:
         primary: light blue
 nav:
