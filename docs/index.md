@@ -23,10 +23,10 @@
 
 
 <div class="fotos_div">
-<div class="hover11"><figure><img alt="1" src="/img/Gabriel.jpg"><span>Gabriel</span></figure></div>
-<div class="hover11"><figure><img alt="2" src="/img/Guilherme.jpg"><span>Guilherme</span></figure></div>
-<div class="hover11"><figure><img alt="3" src="/img/Italo.jpg"><span>Italo</span></figure></div>
-<div class="hover11"><figure><img alt="4" src="/img/Joao.jpg"><span>João</span></figure></div>
-<div class="hover11"><figure><img alt="5" src="/img/Nathan.jpg"><span>Nathan</span></figure></div>
-<div class="hover11"><figure><img alt="6" src="/img/Philipe.jpg"><span>Philipe</span></figure></div>
+<div class="hover11"><figure><img alt="1" src="./img/Gabriel.jpg"><span>Gabriel</span></figure></div>
+<div class="hover11"><figure><img alt="2" src="./img/Guilherme.jpg"><span>Guilherme</span></figure></div>
+<div class="hover11"><figure><img alt="3" src="./img/Italo.jpg"><span>Italo</span></figure></div>
+<div class="hover11"><figure><img alt="4" src="./img/Joao.jpg"><span>João</span></figure></div>
+<div class="hover11"><figure><img alt="5" src="./img/Nathan.jpg"><span>Nathan</span></figure></div>
+<div class="hover11"><figure><img alt="6" src="./img/Philipe.jpg"><span>Philipe</span></figure></div>
 </div>
