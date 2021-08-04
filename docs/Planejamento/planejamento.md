@@ -1,5 +1,8 @@
 # Planejamento
 
+## Apresentação
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2OMZSk2WDJk" title="Apresentação 1 - VivaBem" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## <a>Metodologia</a>
 
 ### <a>Agile</a>
@@ -54,12 +57,12 @@ As reuniões são agendadas toda semana para dividir tarefas e discutir sobre qu
 
  **Ferramenta** | **Nome** | **Finalidade**
  ---------------| ----------- | ----------
-<img src="/assets/ferramentas/GithubLogo.png" alt="Github" width="100"/> | Github | Github é uma ferramenta para controle de versionamento e armazenamento dos arquivos de documentação.
-<img src="/assets/ferramentas/lucidChartLogo.png" alt="Lucidchart" width="100"/> | Lucid Chart | Lucid Chart é uma ferramenta que permite criar desenhos, gráficos e diagramas de forma eficiênte e simples.
-<img src="/assets/ferramentas/MicrosoftTeamsLogo.png" alt="Teams" width="100"/> | Microsoft Teams | Plataforma para realização de reuniões em chamada de voz e vídeo.
-<img src="/assets/ferramentas/TelegramLogo.png" alt="Telegram" width="100"/> | Telegram | Uma das maiores ferramentas de comunicação da atualidade, irá permitir ao grupo uma forma de comunicação de forma ágil e facil durante todo o projeto.
-<img src="/assets/ferramentas/VScodeLogo.png" alt="VScode" width="100"/> | Visual Studio Code | Principal ferramenta de edição de textos no projto.
-<img src="/assets/ferramentas/MkdocsLogo.png" alt="MKdocs" width="100"/> | MKdocs | Gerador de site estático minimalista, será usado para criar o site contendo a documentação do projeto.
+<img src="/img/GithubLogo.png" alt="Github" width="100"/> | Github | Github é uma ferramenta para controle de versionamento e armazenamento dos arquivos de documentação.
+<img src="/img/lucidChartLogo.png" alt="Lucidchart" width="100"/> | Lucid Chart | Lucid Chart é uma ferramenta que permite criar desenhos, gráficos e diagramas de forma eficiênte e simples.
+<img src="/img/MicrosoftTeamsLogo.png" alt="Teams" width="100"/> | Microsoft Teams | Plataforma para realização de reuniões em chamada de voz e vídeo.
+<img src="/img/TelegramLogo.png" alt="Telegram" width="100"/> | Telegram | Uma das maiores ferramentas de comunicação da atualidade, irá permitir ao grupo uma forma de comunicação de forma ágil e facil durante todo o projeto.
+<img src="/img/VScodeLogo.png" alt="VScode" width="100"/> | Visual Studio Code | Principal ferramenta de edição d textos no projto.
+<img src="/img/MkdocsLogo.png" alt="MKdocs" width="100"/> | MKdocs | Gerador de site estático minimalista, será usado para criar o site contendo a documentação do projeto.
 
 ## Cronograma
 
@@ -78,7 +81,8 @@ As reuniões são agendadas toda semana para dividir tarefas e discutir sobre qu
 
 <p align = "justify"> &emsp;&emsp;O desenvolvimento dos artefatos e das atividades relacionadas à cada entrega será realizada em duplas e será revisado por um ou mais membros do grupo de acordo com a disponibilidade de cada um, ilustrada no HeatMap:</p>
 
-<img src="assets/images/heatmap.png">
+<img src="/img/heatmap.png">
+
 
 ## Versionamento
 
@@ -89,3 +93,4 @@ As reuniões são agendadas toda semana para dividir tarefas e discutir sobre qu
 | 03/08/2021 | 1.2 | Adicionando a tabela do cronograma | Ítalo Serra |
 | 03/08/2021 | 1.3 | Adicionado tabela de ferramentas | Guilherme Vial |
 | 03/08/2021 | 1.4 | Adicionado heatmap de disponibilidade | Philipe Serafim |
+| 04/08/2021 | 1.5 | Adicionado video de apresentação | Philipe Serafim |
