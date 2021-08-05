@@ -1,19 +1,21 @@
-# VivaBem 2021.1 (Grupo 02)
+# <a>VivaBem 2021.1</a>
 
-## Sobre o projeto
+## <a>Sobre o projeto</a>
 
 <p style="text-indent: 20px; text-align: justify">Este repositório do Grupo 02 foi criado para a documentação do desenvolvimento de do projeto da matéria de Requisitos de Software da Universidade de Brasília. Ele está sendo desenvolvido com o propósito de estudo acadêmico. Para o desenvolvimento da matéria escolhemos o aplicativo VivaBem desenvolvido pelo ministério da saúde
 </p>
 
-## Sobre o app
+## <a>Sobre o app</a>
 
 <p style="text-indent: 20px; text-align: justify">É um aplicativo desenvolvido para quem faz uso de remédios diariamente. Ele permite cadastrar os lembretes de medicamentos, exames e vacinas, criando alertas para os medicamentos e vacinas que o usuário precisa tomar; O usuário pode ver detalhes de todas as dispensações de medicamentos antirretrovirais que já recebeu, assim como os esquemas que já usou e a data da próxima dispensação; ter acesso aos resultados dos seus exames de carga viral e CD4 realizados no SUS assim que ficarem prontos; poderá ver gráficos que demonstram a evolução do seu tratamento, com informações consolidadas sobre os resultados de carga viral, CD4 e a relação do CD4 e CD8; e manter-se informado sobre as principais notícias que circulam por aí antes de todo mundo.
 </p>
 
-## Equipe
+## <a>Equipe</a>
 
-|Nome|GitHub|
-|---|---|
+
+
+| Nome | GitHub |
+| :----- | :----- |
 |Gabriel Avelino|@gabrielavelino|
 |Guilherme Vial|@GRVial|
 |Italo Fernandes|@italofernandes13|

@@ -8,7 +8,10 @@ theme:
         primary: light blue
 nav:
     - Home: index.md
-    - Planejamento: "Planejamento/planejamento.md"
+    - Apresentações: "Apresentacoes/apresentacoes.md"
+    - Planejamento e Pré-Rastreabilidade: 
+        - Planejamento: "Planejamento/planejamento.md"
+        - Pré-Rastreabilidade: "Planejamento/pre_rastreabilidade.md"
 extra_css:
   - "style/index.css"
 
