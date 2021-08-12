@@ -12,9 +12,9 @@
 ## Equipe
  Foto | Nome | Email | GitHub |
  ---- | ---- | ----- | ------ |
-<img src="docs/img/Gabriel.jpg" width="100"> | Gabriel Avelino	 | colocar e-mail | [@gabrielavelino](https://github.com/gabrielavelino) |
+<img src="docs/img/Gabriel.jpg" width="100"> | Gabriel Avelino	 | blackzinh8@gmail.com | [@gabrielavelino](https://github.com/gabrielavelino) |
 <img src="docs/img/Guilherme.jpg" width="100"> | Guilherme Vial	| colocar e-mail | [@GRVial](https://github.com/GRVial) |
-<img src="docs/img/Italo.jpg" width="100"> | Italo Serra	 | colocar e-mail | [@italofernandes13](https://github.com/italofernandes13) |
+<img src="docs/img/Italo.jpg" width="100"> | Italo Serra	 | italoserra99@gmail.com | [@italofernandes13](https://github.com/italofernandes13) |
 <img src="docs/img/Joao.jpg" width="100"> | João Victor	| joaovaladao161274@gmail.com | [@joaovaladao](https://github.com/joaovaladao) |
-<img src="docs/img/Nathan.jpg" width="100"> | Nathan Serra	| colocar e-mail | [@Nathanserra](https://github.com/Nathanserra) |
-<img src="docs/img/Philipe.jpg" width="100"> | Philipe Serafim	| colocar e-mail | [@philipeserafim](https://github.com/philipeserafim) |
+<img src="docs/img/Nathan.jpg" width="100"> | Nathan Serra	| 170112004@aluno.unb.br | [@Nathanserra](https://github.com/Nathanserra) |
+<img src="docs/img/Philipe.jpg" width="100"> | Philipe Serafim	| philipeserafim@gmail.com | [@philipeserafim](https://github.com/philipeserafim) |
