@@ -9,6 +9,8 @@ theme:
 nav:
     - Home: index.md
     - Planejamento: "Planejamento/planejamento.md"
+    - Elicitação de requisitos:
+      - Requisitos elicitados: "Elicitação de Requisitos/requisitos.md"
 extra_css:
   - "style/index.css"
 
