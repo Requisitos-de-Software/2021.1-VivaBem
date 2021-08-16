@@ -12,8 +12,6 @@ Desse modo é a fase do projeto onde são extraídas informações do cliente so
 
 ## 2. Requisitos funcionais
 
-Descrever funcionalidades principais na tela inicial
-
 <center>
 
 | Identificação | Requisito | Técnica utilizada |
@@ -36,8 +34,7 @@ Descrever funcionalidades principais na tela inicial
 | RF16 | Adicionar medicamento para lembrete | Definir |
 | RF17 | Sugerir lista do SICLOM na pesquisa do remédio | Definir |
 | RF18 | Visualizar gráfico de desempenho do uso do medicamento | Definir |
-| RF19 | Consultar gráfico Carga Viral
-| Definir |
+| RF19 | Consultar gráfico Carga Viral| Definir |
 | RF20 |Visualizar resultado do laudo | Definir |
 | RF21 | Visualizar dados do usuário | Definir |
 | RF22 | Receber notificações/avisos | Definir |
