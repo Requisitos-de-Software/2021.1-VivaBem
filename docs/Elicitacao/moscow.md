@@ -35,23 +35,23 @@ MoSCoW é um acrônimo em inglês das quatro classificações de priorização, 
 | 18 | O usuário pode remover um contato existente de um médico | Could |
 | 19 | O usuário pode cadastrar as informações de seus médicos, como especialidade e local | Could |
 | 20 | O usuário pode registrar medicamentos | Must |
-| 21 | Possuir interface agradável, limpa e intuitiva |
-| 22 | Fácil acesso às telas do app |
-| 23 | Mostrar contraindicações dos medicamentos |
-| 24 | Mostrar interações medicamentosas |
-| 25 | Mostrar efeitos colaterais |
-| 26 | Armazenar as receitas dos medicamentos |
-| 27 | Armazenar histórico de medicamentos |
-| 28 | O usuário pode ver notícias sobre a área da saúde |
-| 29 | O app armazena histórico de sintomas |
-| 30 | O app armazena o histórico de vacinas |
-| 31 | O usuário pode ajustar um lembrete para vacinas futuras |
-| 32 | O usuário pode ver histórico de exames |
-| 33 | O usuário pode ver os resultados dos exames |
-| 34 | O usuário pode adicionar um lembrete para um exame |
-| 35 | O usuário pode cadastrar um exame e/ou seu resultado |
-| 36 | Criar lembrete de consulta |
-| 37 | Cadstrar consulta |
+| 21 | Possuir interface agradável, limpa e intuitiva | Should
+| 22 | Fácil acesso às telas do app | Should
+| 23 | Mostrar contraindicações dos medicamentos | Should
+| 24 | Mostrar interações medicamentosas | Must
+| 25 | Mostrar efeitos colaterais | Must
+| 26 | Armazenar as receitas dos medicamentos | Should
+| 27 | Armazenar histórico de medicamentos | Could
+| 28 | O usuário pode ver notícias sobre a área da saúde | Could
+| 29 | O app armazena histórico de sintomas | Should
+| 30 | O app armazena o histórico de vacinas | Must
+| 31 | O usuário pode ajustar um lembrete para vacinas futuras | Could
+| 32 | O usuário pode ver histórico de exames | Could
+| 33 | O usuário pode ver os resultados dos exames | Could
+| 34 | O usuário pode adicionar um lembrete para um exame | Could
+| 35 | O usuário pode cadastrar um exame e/ou seu resultado | Could
+| 36 | Criar lembrete de consulta | Could
+| 37 | Cadstrar consulta | Should
 
 ## Versionamento
 
