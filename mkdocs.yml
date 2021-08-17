@@ -10,8 +10,8 @@ nav:
     - Home: index.md
     - Planejamento: "Planejamento/planejamento.md"
     - Elicitação:
-      - Introspecção: "Elicitação/introspecção.md"
-      - MoSCoW: "Elicitação/moscow.md"
+      - Introspecção: "Elicitacao/introspeccao.md"
+      - MoSCoW: "Elicitacao/moscow.md"
 extra_css:
   - "style/index.css"
 
