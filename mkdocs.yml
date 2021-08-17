@@ -9,6 +9,9 @@ theme:
 nav:
     - Home: index.md
     - Planejamento: "Planejamento/planejamento.md"
+    - Elicitação:
+      - Introspecção: "Elicitação/introspecção.md"
+      - MoSCoW: "Elicitação/moscow.md"
 extra_css:
   - "style/index.css"
 
