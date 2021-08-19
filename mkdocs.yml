@@ -9,9 +9,9 @@ theme:
 nav:
     - Home: index.md
     - Apresentações: "Apresentacoes/apresentacoes.md"
-    - Planejamento e Pré-Rastreabilidade: 
+    - Pré-rastreabilidade: 
         - Planejamento: "Planejamento/planejamento.md"
-        - Pré-Rastreabilidade: "Planejamento/pre_rastreabilidade.md"
+        - Rich-Picture: "Planejamento/rich-picture.md"
 extra_css:
   - "style/index.css"
 

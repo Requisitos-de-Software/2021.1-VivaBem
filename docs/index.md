@@ -14,14 +14,14 @@
 
 
 
-| Nome | GitHub |
-| :----- | :----- |
-|Gabriel Avelino|@gabrielavelino|
-|Guilherme Vial|@GRVial|
-|Italo Fernandes|@italofernandes13|
-|João Victor|@joaovaladao|
-|Nathan Fernandes|@Nathanserra|
-|Philipe Serafim|@philipeserafim|
+| Nome             | GitHub            |
+| :--------------- | :---------------- |
+| Gabriel Avelino  | @gabrielavelino   |
+| Guilherme Vial   | @GRVial           |
+| Italo Fernandes  | @italofernandes13 |
+| João Victor      | @joaovaladao      |
+| Nathan Fernandes | @Nathanserra      |
+| Philipe Serafim  | @philipeserafim   |
 
 
 <div class="fotos_div">

@@ -52,14 +52,14 @@ As reuniões são agendadas toda semana para dividir tarefas e discutir sobre qu
 
 ## <a>Ferramentas</a>
 
- **Ferramenta** | **Nome** | **Finalidade**
- ---------------| ----------- | ----------
-![Github](../img/GithubLogo.png) | Github | Github é uma ferramenta para controle de versionamento e armazenamento dos arquivos de documentação.
-![Lucidchart](../img/lucidChartLogo.png) | Lucid Chart | Lucid Chart é uma ferramenta que permite criar desenhos, gráficos e diagramas de forma eficiênte e simples.
-![Teams](../img/MicrosoftTeamsLogo.png) | Microsoft Teams | Plataforma para realização de reuniões em chamada de voz e vídeo.
-![Telegram](../img/TelegramLogo.png) | Telegram | Uma das maiores ferramentas de comunicação da atualidade, irá permitir ao grupo uma forma de comunicação de forma ágil e fácil durante todo o projeto.
-![VScode](../img/vscodeLogo.png) | Visual Studio Code | Principal ferramenta de edição d textos no projeto.
-![mkdocs](../img/MkdocsLogo.png) | MKdocs | Gerador de site estático minimalista, será usado para criar o site contendo a documentação do projeto.
+ | **Ferramenta**                           | **Nome**           | **Finalidade**                                                                                                                                         |
+ | ---------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+ | ![Github](../img/GithubLogo.png)         | Github             | Github é uma ferramenta para controle de versionamento e armazenamento dos arquivos de documentação.                                                   |
+ | ![Lucidchart](../img/lucidChartLogo.png) | Lucid Chart        | Lucid Chart é uma ferramenta que permite criar desenhos, gráficos e diagramas de forma eficiênte e simples.                                            |
+ | ![Teams](../img/MicrosoftTeamsLogo.png)  | Microsoft Teams    | Plataforma para realização de reuniões em chamada de voz e vídeo.                                                                                      |
+ | ![Telegram](../img/TelegramLogo.png)     | Telegram           | Uma das maiores ferramentas de comunicação da atualidade, irá permitir ao grupo uma forma de comunicação de forma ágil e fácil durante todo o projeto. |
+ | ![VScode](../img/vscodeLogo.png)         | Visual Studio Code | Principal ferramenta de edição d textos no projeto.                                                                                                    |
+ | ![mkdocs](../img/MkdocsLogo.png)         | MKdocs             | Gerador de site estático minimalista, será usado para criar o site contendo a documentação do projeto.                                                 |
 
 ## <a>Cronograma</a>
 
@@ -77,26 +77,32 @@ As reuniões são agendadas toda semana para dividir tarefas e discutir sobre qu
 
 <p align = "justify"> &emsp;&emsp;Também foram estipuladas datas para a entrega das atividades.</p>
 
-|Etapas|Título|Data Prevista|Descrição|
-|:-:|:-:|:-:|:-:|
-|I|Pré-Rastreabilidade| 29/07-04/08 |   Planejamento do projeto e RichPicture  |
-|II|Priorização de Requisitos| 05/08-21/08| Técnicas e Priorização |
-|III|Modelagem de Requisitos| 22/08-30/08 | Cenários , Léxico, Use Case, Especificação Suplementar | 
-|IV|Modelagem de Requisitos - Ágil| 31/08-11/09 | Histórias de Usuário, Backlogs, NFR Framework | 
-|V|Análise de Requisitos| 12/09-18/09 | Verificação e Validação |
-|VI|Pré-Rastreabilidade| 19/09-09/10 | Gerência de Desenvolvimento de Software orientada à baseline de Requisitos | 
-|VII|Projeto Final| 10/10-20/10 | Desenvolver a apresentação final do projeto |
+| Etapas |             Título             | Data Prevista |                                 Descrição                                  |
+| :----: | :----------------------------: | :-----------: | :------------------------------------------------------------------------: |
+|   I    |      Pré-Rastreabilidade       |  29/07-04/08  |                   Planejamento do projeto e RichPicture                    |
+|   II   |   Priorização de Requisitos    |  05/08-21/08  |                           Técnicas e Priorização                           |
+|  III   |    Modelagem de Requisitos     |  22/08-30/08  |           Cenários , Léxico, Use Case, Especificação Suplementar           |
+|   IV   | Modelagem de Requisitos - Ágil |  31/08-11/09  |               Histórias de Usuário, Backlogs, NFR Framework                |
+|   V    |     Análise de Requisitos      |  12/09-18/09  |                          Verificação e Validação                           |
+|   VI   |      Pré-Rastreabilidade       |  19/09-09/10  | Gerência de Desenvolvimento de Software orientada à baseline de Requisitos |
+|  VII   |         Projeto Final          |  10/10-20/10  |                Desenvolver a apresentação final do projeto                 |
 
 
 ## <a>Bibliografia</a>
 
+  Integrando XP as principais metodologias ágeis. **DevMedia**, 2019.
+  Disponível em: <https://www.devmedia.com.br/integrando-xp-as-principais-metodologias-ageis/30989>. 
+  Acesso em: 13/08/2021
+
+  VALENTE, M. T. <strong>Engenharia de Software Moderna</strong> ed. Moderna, 2020.
+
 ## <a>Versionamento</a>
 
-|Data|Versão|Alteração|Responsável(eis)|
-|:--:|:----:|:-------:|:---:|
-| 03/08/2021 | 1.0 | Criação do documento | João Victor |
-| 03/08/2021 | 1.1 | Adicionando metodologia | Gabriel Avelino |
-| 03/08/2021 | 1.2 | Adicionando a tabela do cronograma | Ítalo Serra |
-| 03/08/2021 | 1.3 | Adicionado tabela de ferramentas | Guilherme Vial |
-| 03/08/2021 | 1.4 | Adicionado heatmap de disponibilidade | Philipe Serafim |
-| 04/08/2021 | 1.5 | Adicionado video de apresentação | Philipe Serafim |
+|    Data    | Versão |               Alteração               | Responsável(eis) |
+| :--------: | :----: | :-----------------------------------: | :--------------: |
+| 03/08/2021 |  1.0   |         Criação do documento          |   João Victor    |
+| 03/08/2021 |  1.1   |        Adicionando metodologia        | Gabriel Avelino  |
+| 03/08/2021 |  1.2   |  Adicionando a tabela do cronograma   |   Ítalo Serra    |
+| 03/08/2021 |  1.3   |   Adicionado tabela de ferramentas    |  Guilherme Vial  |
+| 03/08/2021 |  1.4   | Adicionado heatmap de disponibilidade | Philipe Serafim  |
+| 04/08/2021 |  1.5   |   Adicionado video de apresentação    | Philipe Serafim  |
