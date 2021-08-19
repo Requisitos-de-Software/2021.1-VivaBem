@@ -12,6 +12,9 @@ nav:
     - Pré-rastreabilidade: 
         - Planejamento: "Planejamento/planejamento.md"
         - Rich-Picture: "Planejamento/rich-picture.md"
+    - Elicitação de requisitos:
+      - Requisitos elicitados: "Elicitação de Requisitos/requisitos.md"
+      - StoryBoards: "Elicitação de Requisitos/Storyboard/storyboard.md"
 extra_css:
   - "style/index.css"
 

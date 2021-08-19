@@ -5,9 +5,7 @@ Os autores Nuseibeh e Easterbrook (2000) definem a Engenharia de Requisitos de
 Software como um processo complexo e multidisciplinar, composta pelas fases de identificação
 dos stakeholders e suas necessidades, documentação e análise dos requisitos, comunicação e
 negociação, e posterior implementação dos mesmos.
-</p>
-<p style="text-indent: 20px; text-align: justify">
-Desse modo é a fase do projeto onde são extraídas informações do cliente sobre o que ele deseja que seja construído
+Desse modo é a fase do projeto onde são extraídas informações do cliente sobre o que ele deseja que seja construído.
 </p>
 
 ## 2. Requisitos funcionais
