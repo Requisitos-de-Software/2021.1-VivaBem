@@ -8,10 +8,15 @@ theme:
         primary: light blue
 nav:
     - Home: index.md
-    - Planejamento: "Planejamento/planejamento.md"
-    - Elicitação:
-      - Introspecção: "Elicitacao/introspeccao.md"
-      - MoSCoW: "Elicitacao/moscow.md"
+    - Apresentações: "Apresentacoes/apresentacoes.md"
+    - Pré-rastreabilidade: 
+        - Planejamento: "Planejamento/planejamento.md"
+        - Rich-Picture: "Planejamento/rich-picture.md"
+    - Elicitação de requisitos:
+      - Requisitos elicitados: "Elicitação de Requisitos/requisitos.md"
+      - StoryBoards: "Elicitação de Requisitos/Storyboard/storyboard.md"
+      - Introspecção: "Elicitação de Requisitos/introspeccao.md"
+      - MoSCoW: "Elicitação de Requisitos/moscow.md"
 extra_css:
   - "style/index.css"
 

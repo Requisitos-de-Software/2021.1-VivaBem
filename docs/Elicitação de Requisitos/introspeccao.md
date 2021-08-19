@@ -1,6 +1,6 @@
 ## Metodologia
 
-A introspecção é o método mais óbvio de elicitação, utilizado para tentar entender as funcionalidades e restrições de um sistema. Esta técnica consiste em imaginar como o sistema deve se comportar, suas funcionalidades e ferramentas.
+<p style="text-indent: 20px; text-align: justify">A introspecção é o método mais óbvio de elicitação, utilizado para tentar entender as funcionalidades e restrições de um sistema. Esta técnica consiste em imaginar como o sistema deve se comportar, suas funcionalidades e ferramentas.</p>
 
 ## Resultado
 
@@ -43,6 +43,10 @@ A introspecção é o método mais óbvio de elicitação, utilizado para tentar
 | 35 | O usuário pode cadastrar um exame e/ou seu resultado |
 | 36 | Criar lembrete de consulta |
 | 37 | Cadstrar consulta |
+
+## Bibliografia
+
+- SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 7. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
 
 ## Versionamento
 

@@ -1,8 +1,7 @@
-# 2021.1-Grupo 2
+# VivaBem
 
 <div align="center">
   <img src="docs/img/vivaBem.png" width="160">
-  <figcaption>Figura 1 - Logo do aplicativo</figcaption>
 </div>
 
 <br />

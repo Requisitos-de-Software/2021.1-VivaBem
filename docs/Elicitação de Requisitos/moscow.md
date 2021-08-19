@@ -1,6 +1,6 @@
 ## Metodologia
 
-MoSCoW é uma técnica de priorização utilizada para determinar a importância de requisitos levantados dentro de um projeto. É de extrema importância entender a importância de coisas diferentes ainda no projeto para que se possa dedicar o tempo adequado a cada requisito.
+<p style="text-indent: 20px; text-align: justify">MoSCoW é uma técnica de priorização utilizada para determinar a importância de requisitos levantados dentro de um projeto. É de extrema importância entender a importância de coisas diferentes ainda no projeto para que se possa dedicar o tempo adequado a cada requisito.</p>
 
 MoSCoW é um acrônimo em inglês das quatro classificações de priorização, sendo:
 
@@ -52,6 +52,10 @@ MoSCoW é um acrônimo em inglês das quatro classificações de priorização, 
 | 35 | O usuário pode cadastrar um exame e/ou seu resultado | Could
 | 36 | Criar lembrete de consulta | Could
 | 37 | Cadstrar consulta | Should
+
+## Bibliografia
+
+- SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 7. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
 
 ## Versionamento
 
