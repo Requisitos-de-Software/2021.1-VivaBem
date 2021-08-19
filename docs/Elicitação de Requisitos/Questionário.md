@@ -1,4 +1,4 @@
-## 1. Introdução 
+# 1. Introdução 
 
 <p style="text-indent: 20px; text-align: justify">
 Pelo questionário ser uma técnica simples, escolhemos utilizá-la para ajudar o projeto em relação à elicitação de requisitos, por ser uma técnica que conta com participação pública em relação ao aplicativo VivaBem, nos ajudou a entender mais a opnião dos usuários e suas dúvidas sobre o aplicativo, com perguntas simples e rápidas de responder.
@@ -11,7 +11,7 @@ Com a partipação do publico conseguimos perceber como o aplicativo é utilizad
 </p>
 
 
-## 2. Perguntas escolhidas
+# 2. Perguntas escolhidas
 
 <p style="text-indent: 20px; text-align: justify">
 Com as perguntas que fizemos, descobrimos se a pessoa que está respondendo o questionário conhece e faz uso do aplicativo. Por meio do <a>google forms</a> fizemos as seguintes questões:
@@ -23,10 +23,10 @@ Com as perguntas que fizemos, descobrimos se a pessoa que está respondendo o qu
 - As respostas nos ajudam a identificar o público alvo?
 - O questionário nos ajuda a perceber o comportamento do usúario em relacão ao aplicativo?
 
-## 3. Resultados do questionário
+# 3. Resultados do questionário
 As perguntas realizadas no questionário e suas respostas estão listadas abaixo:
 
-![Telegram](../img/TelegramLogo.png)
+## 3.1 Primeira pergunta
 ![idade](../img/qualsuaidade.png)
 ## 4. Requisitos elicitados
 
