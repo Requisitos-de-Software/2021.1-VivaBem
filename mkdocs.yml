@@ -8,9 +8,10 @@ theme:
         primary: light blue
 nav:
     - Home: index.md
-    - Planejamento: "Planejamento/planejamento.md"
-    - Elicitação de requisitos:
-      - Requisitos elicitados: "Elicitação de Requisitos/requisitos.md"
+    - Apresentações: "Apresentacoes/apresentacoes.md"
+    - Pré-rastreabilidade: 
+        - Planejamento: "Planejamento/planejamento.md"
+        - Rich-Picture: "Planejamento/rich-picture.md"
 extra_css:
   - "style/index.css"
 
