@@ -13,14 +13,17 @@ nav:
         - Planejamento: "Planejamento/planejamento.md"
         - Rich-Picture: "Planejamento/rich-picture.md"
     - Elicitação de requisitos:
-      - Requisitos elicitados: "Elicitação de Requisitos/requisitos.md"
-      - StoryBoards: "Elicitação de Requisitos/Storyboard/storyboard.md"
-      - Personas: "Elicitação de Requisitos/personas.md"
-      - Entrevistas: "Elicitação de Requisitos/entrevista.md"
-      - Introspecção: "Elicitação de Requisitos/introspeccao.md"
-      - Análise de Protocolo: "Elicitação de Requisitos/analise_protocolo.md"
-      - MoSCoW: "Elicitação de Requisitos/moscow.md"
-      - Questionário: "Elicitação de Requisitos/Questionário.md"
+      - Técnicas:
+          - Questionário: "Elicitação de Requisitos/Questionário.md"
+          - StoryBoards: "Elicitação de Requisitos/storyboard.md"
+          - Personas: "Elicitação de Requisitos/personas.md"
+          - Entrevistas: "Elicitação de Requisitos/entrevista.md"
+          - Introspecção: "Elicitação de Requisitos/introspeccao.md"
+          - Análise de Protocolo: "Elicitação de Requisitos/analise_protocolo.md"
+          - Requisitos elicitados: "Elicitação de Requisitos/requisitos.md"
+      - Priorização:
+          - MoSCoW: "Elicitação de Requisitos/moscow.md"
+          - Valor, Custo e Risco: "Elicitação de Requisitos/valor custo e risco.md"
 extra_css:
   - "style/index.css"
 

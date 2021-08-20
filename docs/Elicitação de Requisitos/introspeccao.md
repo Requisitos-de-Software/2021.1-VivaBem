@@ -1,8 +1,8 @@
-## Metodologia
+## <a>Metodologia</a>
 
 <p style="text-indent: 20px; text-align: justify">A introspecção é o método mais óbvio de elicitação, utilizado para tentar entender as funcionalidades e restrições de um sistema. Consiste em imaginar como o sistema deve se comportar, suas funcionalidades e ferramentas.</p>
 
-## Resultado
+## <a>Resultado</a>
 
 | **Número** | **Requisito** |
 | :----: | :-------: |
@@ -42,13 +42,16 @@
 | 34 | O usuário pode adicionar um lembrete para um exame |
 | 35 | O usuário pode cadastrar um exame e/ou seu resultado |
 | 36 | Criar lembrete de consulta |
-| 37 | Cadstrar consulta |
+| 37 | Cadastrar consulta |
 
-## Bibliografia
+<figcaption> Tabela 1 - Requisitos Elicitados </figcaption>
+
+
+## <a>Bibliografia</a>
 
 - SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 7. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
 
-## Versionamento
+## <a>Versionamento</a>
 
 |Data|Versão|Alteração|Responsável(eis)|
 |:--:|:----:|:-------:|:---:|

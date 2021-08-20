@@ -1,9 +1,9 @@
-## <a>Rich Picture</a>
-
+## <a>Introdução</a>
 <p style="text-indent: 20px; text-align: justify">
 Rich Picture é um artefato que deve ser construído, preferencialmente, com o auxílio dos stakeholders. O objetivo do rich picture auxiliar a compreensão do problema a ser resolvido através da ilustração.
 </p>
 
+## <a>Metodologia</a>
 <p style="text-indent: 20px; text-align: justify">
 Não há formalidades sobre a criação, podendo ser realizado a mão e com ou sem auxílio de softwares voltados para isso.
 Mesmo não havendo formalidades é necessário seguir algumas notações para criação do rich picture:
@@ -26,22 +26,22 @@ Mesmo não havendo formalidades é necessário seguir algumas notações para cr
 ### <a>Feitos à mão</a>
 
 ![rich-picture](../img/rich-picture-philipeSerafim.jpeg)
-*Figura 1 - Rich picture, Autor - Philipe Serafim*
+<figcaption>Figura 1 - Rich picture, Autor - Philipe Serafim</figcaption>
 
 </br>
 
 ![rich-picture](../img/rich-picture-gabrielAvelino.jpg)
-*Figura 2 - Rich picture, Autor - Gabriel Avelino*
+<figcaption>Figura 2 - Rich picture, Autor - Gabriel Avelino</figcaption>
 
 </br>
 
 ![rich-picture](../img/rich-picture-joaoVictorjpg.jpg)
-*Figura 3 - Rich picture, Autor - João Victor*
+<figcaption>Figura 3 - Rich picture, Autor - João Victor</figcaption>
 
 ### <a>Versão final</a>
 
 ![rich-picture](../img/richpicture_final.png)
-*Figura 4 - Última versão do rich picture*
+<figcaption>Figura 4 - Última versão do rich picture</figcaption>
 
 ## <a>Versionamento</a>
 

@@ -1,9 +1,9 @@
-## <a>Entrevistas</a>
-
+## <a>Introdução</a>
 <p style="text-indent: 20px; text-align: justify">
 A entrevista é uma técnica de elicitação de requisitos baseada na conversa entre a equipe de desenvolvimento e os prováveis usuários com intuito de entender suas necessidades.
 </p>
 
+## <a>Metodologia</a>
 <p style="text-indent: 20px; text-align: justify">
 O grupo criou perguntas, relacionadas a algumas funcionalidades do aplicativo, que deveriam ser feitas aos entrevistados. Também decidimos que usaríamos nossas personas como entrevistados.
 </p>
@@ -17,7 +17,7 @@ O grupo criou perguntas, relacionadas a algumas funcionalidades do aplicativo, q
 |   3   | Já teve alguma reação medicamentosa?                                       |
 |   4   | Quantas vezes você foi a consultas ou realizou exames nos últimos 6 meses? |
 |   5   | Como você faz para lembrar das datas das consultas e exames?               |
-|   6   | Você já esqueceu de uma consulta ou exame e perdeu a data??                |
+|   6   | Você já esqueceu de uma consulta ou exame e perdeu a data?                 |
 |   7   | Você sabe quando foi sua última vacina?                                    |
 |   8   | E a próxima?                                                               |
 <figcaption>Tabela 1 - Perguntas da entrevista</figcaption>

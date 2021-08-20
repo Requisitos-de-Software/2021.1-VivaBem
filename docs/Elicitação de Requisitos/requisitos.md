@@ -1,4 +1,4 @@
-## 1. Introdução
+## <a>Introdução</a>
 
 <p style="text-indent: 20px; text-align: justify">
 Os autores Nuseibeh e Easterbrook (2000) definem a Engenharia de Requisitos de
@@ -8,7 +8,7 @@ negociação, e posterior implementação dos mesmos.
 Desse modo é a fase do projeto onde são extraídas informações do cliente sobre o que ele deseja que seja construído.
 </p>
 
-## 2. Requisitos funcionais
+## <a>Requisitos funcionais</a>
 
 <center>
 
@@ -53,7 +53,7 @@ Desse modo é a fase do projeto onde são extraídas informações do cliente so
 
 </center>
 
-## 3. Requisitos não funcionais
+## <a> Requisitos não funcionais</a>
 
 <center>
 

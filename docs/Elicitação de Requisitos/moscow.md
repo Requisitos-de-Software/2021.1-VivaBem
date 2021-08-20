@@ -53,6 +53,8 @@ MoSCoW é um acrônimo em inglês das quatro classificações de priorização, 
 | 36 | Criar lembrete de consulta | Could
 | 37 | Cadstrar consulta | Should
 
+<figcaption>Tabela 1 - Requisitos priorizados</figcaption>
+
 ## Bibliografia
 
 - SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 7. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
