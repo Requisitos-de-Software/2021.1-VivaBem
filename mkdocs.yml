@@ -17,6 +17,7 @@ nav:
       - StoryBoards: "Elicitação de Requisitos/Storyboard/storyboard.md"
       - Introspecção: "Elicitação de Requisitos/introspeccao.md"
       - MoSCoW: "Elicitação de Requisitos/moscow.md"
+      - Questionário: "Elicitação de Requisitos/Questionário.md"
 extra_css:
   - "style/index.css"
 
