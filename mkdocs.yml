@@ -14,12 +14,13 @@ nav:
         - Rich-Picture: "Planejamento/rich-picture.md"
     - Elicitação de requisitos:
       - Técnicas:
-          - Questionário: "Elicitação de Requisitos/Questionário.md"
-          - StoryBoards: "Elicitação de Requisitos/storyboard.md"
-          - Personas: "Elicitação de Requisitos/personas.md"
+          - Análise de Protocolo: "Elicitação de Requisitos/analise_protocolo.md"
+          - Brainstorming: "Elicitação de Requisitos/brainstorming.md"
           - Entrevistas: "Elicitação de Requisitos/entrevista.md"
           - Introspecção: "Elicitação de Requisitos/introspeccao.md"
-          - Análise de Protocolo: "Elicitação de Requisitos/analise_protocolo.md"
+          - Personas: "Elicitação de Requisitos/personas.md"
+          - Questionário: "Elicitação de Requisitos/Questionário.md"
+          - StoryBoards: "Elicitação de Requisitos/storyboard.md"
           - Requisitos elicitados: "Elicitação de Requisitos/requisitos.md"
       - Priorização:
           - MoSCoW: "Elicitação de Requisitos/moscow.md"
