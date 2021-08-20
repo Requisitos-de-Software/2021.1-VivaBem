@@ -53,6 +53,27 @@ Desse modo é a fase do projeto onde são extraídas informações do cliente so
 
 </center>
 
+## 3. Requisitos não funcionais
+
+<center>
+
+| Identificação | Requisito | Técnica utilizada |
+| :--: |--|:--:|
+| RNF01 | Apresentar as funcionalidades visualmente | Questionário |
+| RNF02 | Demonstrar como as funcionalidades acontecem | Questionário |
+| RNF03 | Aumentar a acessibilidade para usuários com dificuldades | Questionário |
+| RNF04 | O CPF do usuário não pode se repetir | Introspecção |
+| RNF05 | O usuário deve ter um limite de medicamentos cadastrados | Introspecção |
+| RNF06 | O usuário deve ter uma conta vinculada ao governo | Introspecção |
+| RNF07 | Notificações caso o sistema esteja fora do ar | Introspecção |
+| RNF08 | O E-mail do usuário não pode se repetir | Introspecção |
+| RNF09 | Manter a segurança de dados do usuário | Brainstorming |
+| RNF10 | O aplicativo deverá rodar em qualquer plataforma mobile | Brainstorming |
+
+<figcaption>Tabela 2: Listagem dos requisitos não funcionais</figcaption>
+
+</center>
+
 ## Bibliografia
 
 - SOMMERVILLE, I. Software engineering. 8. ed ed. Harlow: Addison-Wesley [u.a.], 2007. 
@@ -64,4 +85,4 @@ Desse modo é a fase do projeto onde são extraídas informações do cliente so
 |--|--|--|--|
 | 1.0 | 12/08/2021 | Introdução e Requisitos funcionais | João Victor |
 | 1.1 | 10/08/2021 | Adicionando técnica utilizada Questionário | Gabriel Avelino |
-| 1.2 | 20/08/2021 | Adicionando técnicas utilizadas Brainstorming e Introspecção | João Victor Valadão |
+| 1.2 | 20/08/2021 | Adicionando técnicas utilizadas Brainstorming e Introspecção, e Requisitos não funcionais | João Victor Valadão |
