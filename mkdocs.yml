@@ -15,6 +15,8 @@ nav:
     - Elicitação de requisitos:
       - Requisitos elicitados: "Elicitação de Requisitos/requisitos.md"
       - StoryBoards: "Elicitação de Requisitos/Storyboard/storyboard.md"
+      - Personas: "Elicitação de Requisitos/personas.md"
+      - Entrevista: "Elicitação de Requisitos/entrevista.md"
 extra_css:
   - "style/index.css"
 

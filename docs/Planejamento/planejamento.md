@@ -52,14 +52,16 @@ As reuniões são agendadas toda semana para dividir tarefas e discutir sobre qu
 
 ## <a>Ferramentas</a>
 
- | **Ferramenta**                           | **Nome**           | **Finalidade**                                                                                                                                         |
- | ---------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
- | ![Github](../img/GithubLogo.png)         | Github             | Github é uma ferramenta para controle de versionamento e armazenamento dos arquivos de documentação.                                                   |
- | ![Lucidchart](../img/lucidChartLogo.png) | Lucid Chart        | Lucid Chart é uma ferramenta que permite criar desenhos, gráficos e diagramas de forma eficiênte e simples.                                            |
- | ![Teams](../img/MicrosoftTeamsLogo.png)  | Microsoft Teams    | Plataforma para realização de reuniões em chamada de voz e vídeo.                                                                                      |
- | ![Telegram](../img/TelegramLogo.png)     | Telegram           | Uma das maiores ferramentas de comunicação da atualidade, irá permitir ao grupo uma forma de comunicação de forma ágil e fácil durante todo o projeto. |
- | ![VScode](../img/vscodeLogo.png)         | Visual Studio Code | Principal ferramenta de edição d textos no projeto.                                                                                                    |
- | ![mkdocs](../img/MkdocsLogo.png)         | MKdocs             | Gerador de site estático minimalista, será usado para criar o site contendo a documentação do projeto.                                                 |
+ | **Ferramenta**                                 | **Nome**                       | **Finalidade**                                                                                                                                         |
+ | ---------------------------------------------- | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+ | ![Github](../img/GithubLogo.png)               | Github                         | Github é uma ferramenta para controle de versionamento e armazenamento dos arquivos de documentação.                                                   |
+ | ![Lucidchart](../img/lucidChartLogo.png)       | Lucid Chart                    | Lucid Chart é uma ferramenta que permite criar desenhos, gráficos e diagramas de forma eficiênte e simples.                                            |
+ | ![Teams](../img/MicrosoftTeamsLogo.png)        | Microsoft Teams                | Plataforma para realização de reuniões em chamada de voz e vídeo.                                                                                      |
+ | ![Telegram](../img/TelegramLogo.png)           | Telegram                       | Uma das maiores ferramentas de comunicação da atualidade, irá permitir ao grupo uma forma de comunicação de forma ágil e fácil durante todo o projeto. |
+ | ![VScode](../img/vscodeLogo.png)               | Visual Studio Code             | Principal ferramenta de edição d textos no projeto.                                                                                                    |
+ | ![mkdocs](../img/MkdocsLogo.png)               | MKdocs                         | Gerador de site estático minimalista, será usado para criar o site contendo a documentação do projeto.                                                 |
+ | ![figma](../img/figma.png)                     | Figma                          | Editor gráfico de vetor e prototipagem de projetos de design.                                                                                          |
+ | ![geradorPersonas](../img/geradorPersonas.png) | Fantástico Gerador de Personas | Ferramenta da rockcontent que provém a formatação e imagens para geração de personas.                                                                  |
 
 ## <a>Cronograma</a>
 
@@ -98,11 +100,12 @@ As reuniões são agendadas toda semana para dividir tarefas e discutir sobre qu
 
 ## <a>Versionamento</a>
 
-|    Data    | Versão |               Alteração               | Responsável(eis) |
-| :--------: | :----: | :-----------------------------------: | :--------------: |
-| 03/08/2021 |  1.0   |         Criação do documento          |   João Victor    |
-| 03/08/2021 |  1.1   |        Adicionando metodologia        | Gabriel Avelino  |
-| 03/08/2021 |  1.2   |  Adicionando a tabela do cronograma   |   Ítalo Serra    |
-| 03/08/2021 |  1.3   |   Adicionado tabela de ferramentas    |  Guilherme Vial  |
-| 03/08/2021 |  1.4   | Adicionado heatmap de disponibilidade | Philipe Serafim  |
-| 04/08/2021 |  1.5   |   Adicionado video de apresentação    | Philipe Serafim  |
+|    Data    | Versão |                Alteração                | Responsável(eis) |
+| :--------: | :----: | :-------------------------------------: | :--------------: |
+| 03/08/2021 |  1.0   |          Criação do documento           |   João Victor    |
+| 03/08/2021 |  1.1   |         Adicionando metodologia         | Gabriel Avelino  |
+| 03/08/2021 |  1.2   |   Adicionando a tabela do cronograma    |   Ítalo Serra    |
+| 03/08/2021 |  1.3   |    Adicionado tabela de ferramentas     |  Guilherme Vial  |
+| 03/08/2021 |  1.4   |  Adicionado heatmap de disponibilidade  | Philipe Serafim  |
+| 04/08/2021 |  1.5   |    Adicionado video de apresentação     | Philipe Serafim  |
+| 19/08/2021 |  1.6   | Adicionado novas ferramentas utilizadas | Philipe Serafim  |
