@@ -16,7 +16,10 @@ nav:
       - Requisitos elicitados: "Elicitação de Requisitos/requisitos.md"
       - StoryBoards: "Elicitação de Requisitos/Storyboard/storyboard.md"
       - Personas: "Elicitação de Requisitos/personas.md"
-      - Entrevista: "Elicitação de Requisitos/entrevista.md"
+      - Entrevistas: "Elicitação de Requisitos/entrevista.md"
+      - Introspecção: "Elicitação de Requisitos/introspeccao.md"
+      - MoSCoW: "Elicitação de Requisitos/moscow.md"
+      - Questionário: "Elicitação de Requisitos/Questionário.md"
 extra_css:
   - "style/index.css"
 
