@@ -1,6 +1,6 @@
 ## Metodologia
 
-<p style="text-indent: 20px; text-align: justify">A introspecção é o método mais óbvio de elicitação, utilizado para tentar entender as funcionalidades e restrições de um sistema. Esta técnica consiste em imaginar como o sistema deve se comportar, suas funcionalidades e ferramentas.</p>
+<p style="text-indent: 20px; text-align: justify">A introspecção é o método mais óbvio de elicitação, utilizado para tentar entender as funcionalidades e restrições de um sistema. Consiste em imaginar como o sistema deve se comportar, suas funcionalidades e ferramentas.</p>
 
 ## Resultado
 
