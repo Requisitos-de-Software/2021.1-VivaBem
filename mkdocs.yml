@@ -15,6 +15,7 @@ nav:
     - Elicitação de requisitos:
       - Requisitos elicitados: "Elicitação de Requisitos/requisitos.md"
       - StoryBoards: "Elicitação de Requisitos/Storyboard/storyboard.md"
+      - Personas: "Elicitação de Requisitos/personas.md"
       - Entrevistas: "Elicitação de Requisitos/entrevista.md"
       - Introspecção: "Elicitação de Requisitos/introspeccao.md"
       - MoSCoW: "Elicitação de Requisitos/moscow.md"
