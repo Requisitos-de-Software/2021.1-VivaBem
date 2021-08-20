@@ -62,6 +62,7 @@ As reuniões são agendadas toda semana para dividir tarefas e discutir sobre qu
  | ![mkdocs](../img/MkdocsLogo.png)               | MKdocs                         | Gerador de site estático minimalista, será usado para criar o site contendo a documentação do projeto.                                                 |
  | ![figma](../img/figma.png)                     | Figma                          | Editor gráfico de vetor e prototipagem de projetos de design.                                                                                          |
  | ![geradorPersonas](../img/geradorPersonas.png) | Fantástico Gerador de Personas | Ferramenta da rockcontent que provém a formatação e imagens para geração de personas.                                                                  |
+ | ![miro](../img/miro.png)                       | Miro                           | Sendo um quadro branco infinito, o Miro permite que múltiplas pessoas anotem suas ideias e interaja com as anotações de outro membro.                  |
 
 ## <a>Cronograma</a>
 
