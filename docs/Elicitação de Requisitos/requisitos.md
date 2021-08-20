@@ -28,14 +28,14 @@ Desse modo é a fase do projeto onde são extraídas informações do cliente so
 | RF12 | Sugerir próximos exames | Definir |
 | RF13 | Adicionar lembrete de medicamento acabando | Definir |
 | RF14 | Visualizar lista de informação, PCDT e dicas| Definir |
-| RF15 | Consultar lista de medicamentos | Definir |
+| RF15 | Consultar lista de medicamentos | Questionário |
 | RF16 | Adicionar medicamento para lembrete | Definir |
 | RF17 | Sugerir lista do SICLOM na pesquisa do remédio | Definir |
 | RF18 | Visualizar gráfico de desempenho do uso do medicamento | Definir |
 | RF19 | Consultar gráfico Carga Viral| Definir |
-| RF20 |Visualizar resultado do laudo | Definir |
+| RF20 | Visualizar resultado do laudo | Definir |
 | RF21 | Visualizar dados do usuário | Definir |
-| RF22 | Receber notificações/avisos | Definir |
+| RF22 | Receber notificações/avisos | Questionário |
 | RF23 | Habilitar/Desabilitar recebimento de notificações | Definir |
 | RF24 | Gerenciar função "soneca" | Definir |
 | RF25 | Manter informações de emergência | Definir |
@@ -45,9 +45,9 @@ Desse modo é a fase do projeto onde são extraídas informações do cliente so
 | RF29 | Confirmar realização de exame, consulta ou compromissos | Definir |
 | RF30 | Cadastrar resultado de exames específicos | Definir |
 | RF31 | Cadastrar resultado de exames gerais | Definir |
-| RF32 | Consultar resultados de exames | Definir |
+| RF32 | Consultar resultados de exames | Questionário |
 | RF33 | Consultar histórico de dispensação | Definir |
-| RF34 | Responder questionário | Definir |
+| RF34 | Responder questionário | Questionário |
 
 <figcaption>Tabela 1: Listagem dos requisitos funcionais</figcaption>
 
@@ -63,3 +63,4 @@ Desse modo é a fase do projeto onde são extraídas informações do cliente so
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 12/08/2021 | Introdução e Requisitos funcionais | João Victor |
+| 1.1 | 20/08/2021 | Adicionando técnica utilizada Questionário | Gabriel Avelino |
