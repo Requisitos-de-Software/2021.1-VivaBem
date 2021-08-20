@@ -1,2 +1,0 @@
-# Análise de Discurso
-
