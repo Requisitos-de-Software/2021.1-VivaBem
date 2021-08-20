@@ -18,6 +18,7 @@ nav:
       - Personas: "Elicitação de Requisitos/personas.md"
       - Entrevistas: "Elicitação de Requisitos/entrevista.md"
       - Introspecção: "Elicitação de Requisitos/introspeccao.md"
+      - Análise de Protocolo: "Elicitação de Requisitos/analise_protocolo.md"
       - MoSCoW: "Elicitação de Requisitos/moscow.md"
       - Questionário: "Elicitação de Requisitos/Questionário.md"
 extra_css:
