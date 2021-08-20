@@ -9,7 +9,7 @@ Análise de protocolo é baseada num modelo simplista de pensamento humano, na f
 ## Escopo
 
 <p style="text-indent: 20px; text-align: justify">
-Foi difinido um escopo de atividades a serem realizadas pelo usuário devido ao grande opções de funcionalidades do aplicativo. A atividades são as funcionalides de adicionar de um medicamento.
+Foi definido um escopo de atividades a serem realizadas pelo usuário devido ao grande opções de funcionalidades do aplicativo. A atividades são as funcionalides de adicionar de um medicamento.
 </p>
 
 ## Resultado
@@ -46,7 +46,7 @@ Aqui eu encontro alguns campos indicando que devo  informar a frequência que de
 Aqui eu informo o tempo do tratamento e eu posso informar que é de uso continuo ou se é somente durante algum período. Na sequência eu vejo que posso anotar algumas informações de açertas ou fazer alguma anotação sobre o remédio. Também existe um campo onde posso tirar uma foto da receita acredito que seja uma ferramenta útil caso eu queria ter fácil acesso à receita. Logo em seguida existem dois botões um deles é "<- Anterior" acredito que seja caso eu tenha errado alguma informação do medicamento e o outro botão "Concluído" que acredito que tenha finalizado o processo de adicionar um medicamento.
 </p>
 
-## resultados
+## Resultados
 
 |     ID     | Resultado | 
 | :--------: | :-----------------------------------------------: |
@@ -62,8 +62,8 @@ Aqui eu informo o tempo do tratamento e eu posso informar que é de uso continuo
 ## Referências 
  * https://inf1377.wordpress.com/2014/04/12/analise-de-protocolo-engenharia-reversa-reutilizacao/
 
- ## Versionamento 
+## Versionamento 
 
  |    Data    | Versão |               Alteração               | Responsável(eis) |
 | :--------: | :----: | :-----------------------------------: | :--------------: |
-| 19/08/2021 |  1.0   | Criação do documentoe elaboração do documento|   Nathan Fernandes|
+| 19/08/2021 |  1.0   | Criação e elaboração do documento|   Nathan Fernandes|
