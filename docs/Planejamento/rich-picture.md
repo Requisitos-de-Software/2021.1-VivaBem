@@ -16,7 +16,10 @@ Mesmo não havendo formalidades é necessário seguir algumas notações para cr
 |    Banco de dados    | São as tabelas da sua base de dados, onde são armazenadas as informações, dados e arquivos do sistema, representados por retângulos               |
 |        Setas         | Indicam a direção das informações, o fluxo entre atores, banco de dados e operações                                                               |
 | Fronteira do sistema | É o que delimita qual parte do que está representado no papel é responsabilidade da aplicação.                                                    |
-*Tabela 1 - Guia de notações do rich-picture *
+
+<center>
+<figcaption>Tabela 2: Listagem dos requisitos não funcionais</figcaption>
+</center>
 
 ## <a>Rich Pictures</a>
 
