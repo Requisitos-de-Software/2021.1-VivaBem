@@ -74,13 +74,13 @@ Desse modo é a fase do projeto onde são extraídas informações do cliente so
 
 </center>
 
-## Bibliografia
+## <a>Bibliografia</a>
 
 - SOMMERVILLE, I. Software engineering. 8. ed ed. Harlow: Addison-Wesley [u.a.], 2007. 
 
 - SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 7. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
 
-## Versionamento
+## <a>Versionamento</a>
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 12/08/2021 | Introdução e Requisitos funcionais | João Victor |
