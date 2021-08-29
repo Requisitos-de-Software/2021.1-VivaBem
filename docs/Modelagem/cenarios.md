@@ -66,7 +66,7 @@ Os cenários podem ser usados em todas as etapas do processo de design como desc
 |Episódios|Usuário deseja cadastrar um novo exame <br/>Usuário insere as infomações do exame|
 |Exceção|Internet cair <br/> Não tem exames
 
-<figcaption>Tabela 3 - Descrição do processo de cadastro de medicamento</figcaption>
+<figcaption>Tabela 3 - Descrição do processo de cadastro de exame</figcaption>
 
 </center>
 <br/>
@@ -166,3 +166,110 @@ Os cenários podem ser usados em todas as etapas do processo de design como desc
 
 </center>
 <br/>
+
+### C09: Termos de uso do aplicativo
+
+<center>
+
+|Cenário|Descrição|
+|:---|:---|
+|Título|Termos de uso do aplicativo|
+|Objetivo|Consultar os termos de uso do aplicativo|
+|Contexto|Entrar no aplicativo<br/>Pré-condição: Possuir cadastro no aplicativo<br/>Pós-condição: Visualizar os termos de uso|
+|Atores|Usuário que usa medicamentos e/ou faz exames, e que deseja utilizar o aplicativo|
+|Recursos|Aplicativo instalado|
+|Episódios|Usuário acessa o aplicativo<br/>seleciona a função Mais opções<br/>Usuário seleciona a opção Termos de uso|
+|Exceção|Indisponibilidade do aplicativo|
+
+<figcaption>Tabela 9 - Descrição do processo para consulta dos termos de uso</figcaption>
+<br/>
+
+</center>
+
+### C10: Trocar senha
+
+<center>
+
+|Cenário|Descrição|
+|:---|:---|
+|Título|Trocar senha para acesso|
+|Objetivo|Trocar senha do seu login no aplicativo|
+|Contexto|Entrar no aplicativo<br/>Pré-condição: Possuir cadastro no aplicativo<br/>Pós-condição: Senha trocada com sucesso|
+|Atores|Usuário que usa medicamentos e/ou faz exames, e que deseja utilizar o aplicativo|
+|Recursos|Conexão de internet, aplicativo instalado|
+|Episódios|Usuário acessa o aplicativo<br/>Usuário seleciona a função Mais opções<br/>Usuário seleciona a opção Trocar senha<br/>Usuário digita nova senha|
+|Exceção|Sem conexão com a internet<br/>Servidor fora do ar<br/>Nova senha inválida|
+
+<figcaption>Tabela 10 - Descrição do processo de alteração de senha</figcaption>
+<br/>
+
+</center>
+
+### C11: Rendimentos
+
+<center>
+
+|Cenário|Descrição|
+|:---|:---|
+|Título|Rendimentos|
+|Objetivo|Ver o rendimento do usuário na utilização do aplicativo|
+|Contexto|Entrar no aplicativo<br/>Pré-condição: Ter cadastrado e utilizado o aplicativo por um dia<br/>Pós-condição: Rendimento mostrado na tela|
+|Atores|Usuário que usa medicamentos e/ou faz exames, e que deseja ver como está seu desempenho durante o uso do aplicativo|
+|Recursos|Conexão de internet, aplicativo instalado, medicamentos e/ou exames cadastrados|
+|Episódios|Usuário acessa o aplicativo<br/>Usuário seleciona a função Mais opções<br/>Usuário seleciona a opção rendimento<br/>Usuário visualiza seu rendimento durante um certo período|
+|Exceção|Sem conexão com a internet<br/>Servidor fora do ar<br/>Não ter cadastrado nenhum medicamento e/ou exames|
+
+<figcaption>Tabela 11 - Descrição do rendimento</figcaption>
+<br/>
+</center>
+
+### C12: Novidades
+<center>
+
+|Cenário|Descrição|
+|:---|:---|
+|Título|Novidades|
+|Objetivo|Ver as novidades que envolve o aplicativo|
+|Contexto|Entrar no aplicativo<br/>Pré-condição: Possuir cadastro no aplicativo<br/>Pós-condição: visualizar todas as novidades|
+|Atores|Usuário que usa medicamentos e/ou faz exames, e que deseja saber as novidades sobre o aplicativo|
+|Recursos|Conexão de internet, aplicativo instalado|
+|Episódios|Usuário acessa o aplicativo<br/>Usuário seleciona a função Mais opções<br/>Usuário seleciona a opção Novidades<br/>Usuário visualizar as notícias|
+|Exceção|Sem conexão com a internet<br/>Servidor fora do ar<br/>Nenhuma novidade no momento|
+
+<figcaption>Tabela 12 - Descrição do processo novidades</figcaption>
+<br/>
+
+</center>
+
+### C13: Informações de emergência
+
+<center>
+
+|Cenário|Descrição|
+|:---|:---|
+|Título|Informações de emergência|
+|Objetivo|Manter contatos caso ocorra alguma emergência|
+|Contexto|Entrar no aplicativo e selecionar a opção de "Informações de emergência"<br/>Pré-condição: Possuir cadastro no aplicativo<br/>Pós-condição: Notificação do contato registrado caso ocorra alguma emergência|
+|Atores|Usuário que usa medicamentos e/ou faz exames, e que deseja utilizar o aplicativo|
+|Recursos|Aplicativo instalado, ao menos um medicamento cadastrado|
+|Episódios|Usuário acessa o aplicativo<br/>seleciona a função de configurações no botão "Mais Opções"<br/>Usuário seleciona a opção "Informações de emergência"<br/>Será direcionado a um formulário para preencher os dados do contato de emergência|
+|Exceção|Indisponibilidade do aplicativo<br/>Sem conexão com a internet|
+
+<figcaption>Tabela 13 - Descrição do processo de informações de emergência</figcaption>
+<br/>
+
+</center>
+
+## Referências e Bibliografias
+
+- Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
+
+
+
+## Versionamento
+| Versão | Data | Modificação | Autor |
+|--|--|--|--|
+| 1.0 | 29/08/2021 | Criação do documento| Ítalo Serra |
+| 1.1 | 29/08/2021 | Introdução e objetivo | Gabriel Avelino|
+| 1.2 | 29/08/2021 | Criação dos cenários| Gabriel Avelino, Ítalo Serra e João Victor|
+| 1.3 | 29/08/2021 | Revisor do documento| João Victor|
