@@ -1,6 +1,6 @@
 ## <a>Introdução</a>
 
-<p style="text-indent: 20px; text-align: justify">A Especificação Suplementar possui como objetivo tratar e descrever todos os requisitos não funcionais em um sistema.</p>
+<p style="text-indent: 20px; text-align: justify">A Especificação Suplementar possui como objetivo tratar e descrever, utilizando linguagem natural, todos os requisitos não funcionais em um sistema.</p>
 
 ## <a>Escopo</a>
 
@@ -31,6 +31,12 @@
 
 - Deve ter bom desempenho durante a realização de tarefas.
 - Deve ter pouco tempo de resposta ás ações do usuário.
+
+## <a>Requisitos Físicos</a>
+<p style="text-indent: 20px; text-align: justify">O sistema deve ocupar espaço adequado em disco para cada sistema operacional em que será utilizado.</p>
+
+- Deve ocupar espaço em disco adequado para os padrões do sistema Android.
+- Deve ocupar espaço em disco adequado para os padrões do sistema IOS.
 
 ## <a>Referências</a>
 <p style="text-indent: 20px; text-align: justify"></p>
