@@ -28,6 +28,7 @@ nav:
     - Modelagem de Requisitos:
         - Casos de Uso: "Modelagem/casos_de_uso.md"
         - Cenários: "Modelagem/cenarios.md"
+        - Léxicos: "Modelagem/lexicos.md"
 extra_css:
   - "style/index.css"
 
