@@ -1,7 +1,7 @@
 # <a>Introdução </a>
 
 <p style="text-indent: 20px; text-align: justify">
-Usados para descrever um conjunto de ações que um sistema ou um conjunto de sistemas deve desempenhar em
+Os Casos de Uso são utilizados para descrever um conjunto de ações que um sistema ou um conjunto de sistemas deve desempenhar em
 colaboração com um ou mais usuários externos ao sistema, ou seja tem como objetivo descrever como será o uso de uma funcionalidade de um sistema. Nosso grupo escolheu diagrama de estados da UML para descrever como ocorre as interações do usuário com o sistema. Definindo os atores (pessoas ou outros sistemas), as classes de interação (ações dos usuários ou do sistema), os relacionamentos (ligação entre os atores e a interação) e o limite do sistema (escopo do sistema para os casos de uso).
 </p>
 
@@ -19,6 +19,7 @@ O grupo fez os diagramas de caso de uso usando o <a>Lucid Chart</a>, aplicativo 
 <figcaption>Figura 1: Caso de uso geral</figcaption>
 
 </center>
+<br/>
 
 ## 2.2 Caso de uso específico - "Mais opções"
 <p style="text-indent: 20px; text-align: justify">
@@ -26,15 +27,17 @@ Diagrama destaca o caso de uso específico da elipse verde do diagrama acima, mo
 </p>
 
 ![Casodeuso](../img/CasoMaisopcoes.png)
+
 <center>
 
 <figcaption>Figura 2: Caso de uso específico do "Mais opções"</figcaption>
 
 </center>
+<br/>
 
 # <a>Descrição dos casos de uso</a>
 
-## Realizar cadastro de usuário
+## Cadastrar usuário
 <center>
 
 Caso 1 | Informações
@@ -64,7 +67,7 @@ Rastreabilidade | Pasta: Elicitação de Requisitos/Técnicas/Requisitos elicita
 </center>
 <br/>
 
-## Cadastrar um exame
+## Cadastrar u exame
 <center>
 
 Caso 3 | Informações
@@ -109,6 +112,21 @@ Rastreabilidade | Pasta: Elicitação de Requisitos/Técnicas/Requisitos elicita
 </center>
 <br/>
 
+## Acessar notificações
+<center>
+
+Caso 6 | Informações
+|-------|---------|
+Descrição |Ao acessar a tela inicial, o ator pode verificar todas as outras opções disponibilizadas pelo aplicativo clicando no ícone "Mais opções"
+Ator(es) | Usuário
+Pré-condições | O autor deve estar logado no aplicativo
+Fluxo |1 - O ator precisa abrir o aplicativo<br/>2 - Necessita fazer login<br/>3 - Na tela inicial, o ator clica no ícone "Mais opções"
+Pós-condições | O ator pode usufruir de todas as outras opções que o aplicativo oferece
+Rastreabilidade | Pasta: Elicitação de Requisitos/Técnicas/Requisitos elicitados -> RF06, RF07, RF14, RF19, RF20, RF24, RF26 e RF33
+<figcaption>Tabela 6 - Descrição do sistema de notificações</figcaption>
+</center>
+<br/>
+
 ## <a>Referências e Bibliografias</a>
 
 - Milene Serrano; Maurício Serrano; Interação Humano-Computador e Requisitos de Software. Slide, aula 13, Elicitação e Modelagem de Requisitos.
@@ -119,6 +137,8 @@ Rastreabilidade | Pasta: Elicitação de Requisitos/Técnicas/Requisitos elicita
 | 1.0 | 29/08/2021 | Criação do documento, Introdução | João Victor Valadão |
 | 1.0 | 29/08/2021 | Criação dos diagramas | Gabriel Avelino e Ítalo Serra|
 | 1.2 | 29/08/2021 | Criação das tabelas de caso de uso | João Victor e Ítalo Serra |
+| 1.3 | 29/08/2021 | Criação das tabela caso de uso "Mais Opções" | João Victor e Ítalo Serra |
+| 1.4 | 29/08/2021 | Revisão do documento | Gabriel Avelino |
 
 
 

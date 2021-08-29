@@ -139,7 +139,7 @@ Como a maioria não conhece ou não utiliza o app e não usam medicamentos, a gr
 
 ## <a>Referências e Bibliografias</a>
 
-Questionário. Disponível em: <https://www.maxwell.vrac.puc-rio.br/15760/15760_3.PDF> Acessado em: 18/03/2021
+- Questionário disponível em: <https://www.maxwell.vrac.puc-rio.br/15760/15760_3.PDF> Acessado em: 18/03/2021
 
 ## <a>Versionamento</a>
 | Versão | Data | Modificação | Autor |
