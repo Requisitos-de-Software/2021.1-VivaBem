@@ -70,3 +70,99 @@ Os cenários podem ser usados em todas as etapas do processo de design como desc
 
 </center>
 <br/>
+
+### C04: Diário do usuário
+
+<center>
+
+|Cenário|Descrição|
+|:---|:---|
+|Título|Diário do usuário|
+|Objetivo|Permitir que o usuário visualize as horários dos medicamentos cadastrados e responder a como o usuário está se sentindo|
+|Contexto|Local: Entrar no aplicativo e ir na aba diário <br/> Pré-condição: Estar logado no app <br> Pós-condição: Usuário visualizar os horários dos próximos medicamentos|
+|Atores|Usuário que usa medicamentos, e que deseja visualizar os horários|
+|Recursos|Conexão de internet, aplicativo instalado, usar medicamento|
+|Episódios|Usuário deseja visualizar os horários das proximas medicações<br/> O usuário deseja relatar como está se sentindo|
+|Exceção|Internet cair <br/> Não tomar medicamento<br/> Não possuir laudo médico |
+
+<figcaption>Tabela 4 - Descrição da aba diário</figcaption>
+
+</center>
+<br/>
+
+
+### C05: Acessar Notificações
+
+<center>
+
+|Cenário|Descrição|
+|:---|:---|
+|Título|Acessar notificações|
+|Objetivo|Acessar informações e notícias que o aplicativo expõe ao usuário|
+|Contexto|Local: Iniciar o aplicativo<br/>Pré-condição: Ter o app instalado, cadastro realizado<br/>Pós-condição: O usuário se mantém informado pelas notificações do aplicativo|
+|Atores|Usuário que usa medicamentos e/ou faz exames, e que deseja utilizar o aplicativo|
+|Recursos|Conexão de internet, aplicativo instalado|
+|Episódios|Usuário já se cadastrou no aplicativo<br/>Usuário acessa a página de notificações<br/>Usuário visualiza suas notificações<br/>|
+|Exceção|Sem conexão com a internet<br/>Acessa a página mais não possui nenhuma notificação|
+
+<figcaption>Tabela 5 - Descrição do processo de notificações</figcaption>
+<br/>
+
+</center>
+
+### C06: Sair do aplicativo
+
+<center>
+
+|Cenário|Descrição|
+|:---|:---|
+|Título|Sair do aplicativo|
+|Objetivo|Sair do aplicativo retirando a conta|
+|Contexto|Local: Aba das configurações<br/>Pré-condição: Ter o app instalado, cadastro realizado<br/>Pós-condição: O usuário desloga a conta que estava utilizando|
+|Atores|Usuário que estava cadastrado e quer retirar a conta cadastrada|
+|Recursos|Conexão de internet, aplicativo instalado|
+|Episódios|Usuário já se cadastrou no aplicativo<br/>Usuário quer retirar a conta do aplicativo
+|Exceção|Sem conexão com a internet<br/>Não ter conta cadastrada|
+
+<figcaption>Tabela 6 - Descrição do processo de sair do aplicativo</figcaption>
+<br/>
+
+</center>
+
+### C07: Registrar efeitos colaterais
+
+<center>
+
+|Cenário|Descrição|
+|:---|:---|
+|Título|Registrar um efeito colateral|
+|Objetivo|Identificar um efeito colateral de algum medicamento|
+|Contexto|Entrar no aplicativo<br/>Pré-condição: Possuir cadastro no aplicativo e ter ao menos um medicamento cadastrado<br/>Pós-condição: Acesso ao questionário de saúde|
+|Atores|Usuário que usa medicamentos e/ou faz exames, e que deseja utilizar o aplicativo|
+|Recursos|Aplicativo instalado, ao menos um medicamento cadastrado|
+|Episódios|Usuário acessa o aplicativo<br/>seleciona a função de Diário ou as configurações de "Mais Opções"<br/>Usuário seleciona a opção "Registrar efeito colateral"<br/>Será direcionado a um questionário com perguntas sobre os principais sintomas|
+|Exceção|Indisponibilidade do aplicativo|
+
+<figcaption>Tabela 7 - Descrição do processo para registrar efeitos colaterais</figcaption>
+<br/>
+
+</center>
+
+### C08: Realizar interação medicamentosa
+
+<center>
+
+|Cenário|Descrição|
+|:---|:---|
+|Título|Realizar interação medicamentosa|
+|Objetivo|Permitir que os usuários visualize os medicamentos|
+|Contexto|Local: Entrar no aplicativo e ir na aba de medicamentos <br/> Pré-condição: Estar logado no app <br> Pós-condição: Usuário olha o medicamento cadastrado|
+|Atores|Usuário que deseja visualizar os medicamentos, e que queira ver as suas informações no aplicativo|
+|Recursos|Conexão de internet, aplicativo instalado|
+|Episódios|Usuário deseja ver um medicamento cadastrado <br/>Usuário seleciona o medicamento<br/>Usuário analisa as informações do medicamento|
+|Exceção|Internet cair <br/> Não ter medicamento cadastrado
+
+<figcaption>Tabela 8 - Descrição do processo de interação medicamentosa</figcaption>
+
+</center>
+<br/>
