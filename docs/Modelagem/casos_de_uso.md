@@ -13,7 +13,24 @@ O grupo fez os diagramas de caso de uso usando o <a>Lucid Chart</a>, aplicativo 
 
 ## 2.1 Caso geral de uso
 
-## 2.2 Caso geral de uso
+![Casodeuso](../img/CasoGeralDeUso.png)
+<center>
+
+<figcaption>Figura 1: Caso de uso geral</figcaption>
+
+</center>
+
+## 2.2 Caso de uso específico - "Mais opções"
+<p style="text-indent: 20px; text-align: justify">
+Diagrama destaca o caso de uso específico da elipse verde do diagrama acima, mostrando os casos de uso do caso "Mais opções".
+</p>
+
+![Casodeuso](../img/CasoMaisopcoes.png)
+<center>
+
+<figcaption>Figura 2: Caso de uso específico do "Mais opções"</figcaption>
+
+</center>
 
 # <a>Descrição dos casos de uso</a>
 
