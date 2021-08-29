@@ -25,6 +25,9 @@ nav:
       - Priorização:
           - MoSCoW: "Elicitação de Requisitos/moscow.md"
           - Valor, Custo e Risco: "Elicitação de Requisitos/valor custo e risco.md"
+    - Modelagem de Requisitos:
+        - Casos de Uso: "Modelagem/casos_de_uso.md"
+        - Cenários: "Modelagem/cenarios.md"
 extra_css:
   - "style/index.css"
 
