@@ -144,5 +144,6 @@ Questionário. Disponível em: <https://www.maxwell.vrac.puc-rio.br/15760/15760_
 ## <a>Versionamento</a>
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
-| 1.0 | 18/09/2021 | Criação do documento, listagem das respostas e elicitação dos requisitos | Gabriel Avelino |
-| 1.1 | 19/03/2021 | listagem das respostas e  tabela elicitação dos requisitos | Gabriel Avelino |
+| 1.0 | 18/08/2021 | Criação do documento, listagem das respostas e elicitação dos requisitos | Gabriel Avelino |
+| 1.1 | 19/08/2021 | listagem das respostas e  tabela elicitação dos requisitos | Gabriel Avelino |
+| 1.2 | 21/08/2021 | Revisor | João Victor |
