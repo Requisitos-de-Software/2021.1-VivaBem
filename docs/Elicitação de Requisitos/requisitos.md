@@ -18,7 +18,7 @@ Desse modo é a fase do projeto onde são extraídas informações do cliente so
 | RF02 | Confirmar dados para autenticação | Introspecção |
 | RF03 | Alterar Senha | Introspecção |
 | RF04 | Aceitar termo de uso | Introspecção |
-| RF05 | Visualizar rendimento diário de uso de medicamento | Introspecção |
+| RF05 | Recuperar senha | Introspecção |
 | RF06 | Adicionar sintoma no diário | Introspecção |
 | RF07 | Registrar efeito colateral | Introspecção |
 | RF08 | Visualizar lista de compromissos do dia | Introspecção |
