@@ -69,3 +69,54 @@ O nosso Backlog possui as seguintes características:
 | US20 | gostaria de receber push com alarme do medicamento | não esqueça de tomar uma medicação | Could | RF28 |
 
 <br>
+
+
+### Épico 05 - Área de Exames
+
+
+| ID | Eu, como um usuário | Para que eu | Prioridade | Rastreabilidade |
+| -- | ------------------------------------ |----------- | ---------- | --------------- |
+| US21 | gostaria de realizar o cadastro de um exame | tenha o exame registrado no aplicativo | Must | RF29 |
+| US22 | gostaria de ser notificado com antecedencia o horário do exame | não esqueça e não perca o exame | Must | RF30 |
+| US23 | gostaria de consultar a lista de exames | veja todos os exames que foram realizados | Must | RF36 |
+| US24 | gostaria de confirmar realização de exame, consulta ou compromissos | controle as ações, dependendo da situação | Should | RF31 |
+
+<br>
+
+### Épico 06 - Área mais opções
+
+
+| ID | Eu, como um usuário | Para que eu | Prioridade | Rastreabilidade |
+| -- | ------------------------------------ |----------- | ---------- | --------------- |
+| US25 | gostaria de alterar as configurações | Organize e fique ao meu gosto  | Should | RF |
+| US26 | gostaria de cadastrar um médico para contato | Possa ligar em caso de emergência | Should | RF25 |
+| US27 | gostaria de visualizar as novidades | Possa me manter atualizado com as notícias do mundo da saúde | Could | RF22 |
+| US28 | gostaria de ver o rendimento do mês | Veja se estou cumprindo com as metas | Should | RF18 |
+| US29 | gostaria de visualizar os termos de uso | Veja e concorde com os termos dados | Could | RF19 |
+
+<br>
+
+### Épico 07 - Documentação
+
+
+| ID | Eu, como um usuário | Para que eu | Prioridade | Rastreabilidade |
+| -- | ------------------------------------ |----------- | ---------- | --------------- |
+| US30 | gostaria de ler os termo de uso| verifique se está de acordo com minhas ideias  | Could | RF04 |
+| US31 | gostaria de verificar exames sugeridos | possa me programar para realizar-los | Could | RF12 |
+| US32 | gostaria de visualizar lista de informação, PCDT e dicas | tenha mais informações sobre os meus medicamentos | Could | RF14 |
+| US33 | gostaria de consultar o histórico de dispensação | tenha acesso aos meus resultados | Should | RF33 |
+| US34 | gostaria de responder um questionário de saúde | registre meu estado de saúde | Should | RF34 |
+
+<br>
+
+## Bibliografia
+<p align="justify">SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 15.</p>
+
+## <a>Versionamento</a>
+| Versão | Data       | Modificação                                  | Autor                             |
+| ------ | ---------- | -------------------------------------------- | --------------------------------- |
+| 1.0    | 08/09/2021 | Criação do documento, Introdução             | João Victor Valadão               |
+| 1.1    | 08/09/2021 | Criação do Épico 01                          | Ítalo Serra     |
+| 1.2    | 29/08/2021 | Criação do Épico 02                          | Gabriel Avelino        |
+| 1.3    | 29/08/2021 | Criação do Épico 03                          | João Victor         |
+| 1.4    | 29/08/2021 | Revisão do documento                         | Gabriel Avelino e Ítalo Serra |
