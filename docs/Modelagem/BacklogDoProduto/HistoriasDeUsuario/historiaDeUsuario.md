@@ -15,7 +15,20 @@ As Histórias de Usuário criadas pelo nosso grupo seguem as seguintes caracter�
 <p style="text-indent: 20px; text-align: justify">
 Como dito anteriormente na aba de backlog, os épicos representam uma coleção de itens no Backlog, podendo representar também histórias de usuários que não foram detalhadas por serem grandes ou por serem incertas e não poderem ser incrementadas no produto.
 </p>
-Epicos 1
+
+- [Épico 01 - Acesso ao aplicativo](epico01.md) <br>
+
+- [Épico 02 - Área de usuário](epico02.md) <br>
+
+- [Épico 03 - Área de medicações](epico03.md) <br>
+
+- [Épico 04 - Área de notificações](epico04.md) <br>
+
+- [Épico 05 - Área de exames](epico05.md) <br>
+
+- [Épico 06 - Área mais opções](epico05.md) <br>
+
+- [Épico 07 - Documentação](epico05.md) <br>
 
 ## <a>Referências e Bibliografias</a>
 
