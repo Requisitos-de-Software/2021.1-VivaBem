@@ -1,4 +1,4 @@
-# Épico 02 - Área de Usuário
+# Épico 07 - Documentação
 
 ## 1. US30 - Termo de uso
 
