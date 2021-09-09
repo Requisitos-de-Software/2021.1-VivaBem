@@ -1,4 +1,4 @@
-# Épico 02 - Área de Usuário
+# <a>Épico 02 - Área de Usuário</a>
 
 ## 1. US06 - Recuperar minhas informações de login
 
@@ -79,7 +79,7 @@ Critérios de aceitação:
 - <div style="text-align: justify">Deve conter ao menos um evento já registrado.</div>
 - <div style="text-align: justify">Deve conter um botão com um símbolo de um "Calendário" e assim o usuário será direcionado para a página de calendáriojoao.</div>
 
-## Versionamento
+## <a>Versionamento</a>
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 09/09/2021 | Criação épico 02 | João Victor |

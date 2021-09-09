@@ -1,4 +1,4 @@
-# Épico 06 - Área mais opções
+# <a>Épico 06 - Área mais opções</a>
 
 ## 1. US25 - Alterar as configurações
 
@@ -61,7 +61,7 @@ Critérios de aceitação:
 
 
 
-## Versionamento
+## <a>Versionamento</a>
 
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|

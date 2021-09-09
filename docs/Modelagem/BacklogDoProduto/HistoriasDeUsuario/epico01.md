@@ -1,4 +1,4 @@
-# Épico 01 - Acesso ao Aplicativo
+# <a>Épico 01 - Acesso ao Aplicativo</a>
 
 ## 1. US01 - Realizar o Cadastro
 
@@ -60,9 +60,8 @@ Critérios de aceitação:
 - <div style="text-align: justify">Deve ter um campo para confirmar a nova senha</div>
 
 
-## Versionamento
+## <a>Versionamento</a>
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 09/09/2021 | Criação épico 01 | Ítalo Serra |
-
 | 1.1 | 09/09/2021 | Revisão do documento | João Victor|

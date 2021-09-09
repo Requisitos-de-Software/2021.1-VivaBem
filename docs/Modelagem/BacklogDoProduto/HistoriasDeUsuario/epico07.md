@@ -1,4 +1,4 @@
-# Épico 07 - Documentação
+# <a>Épico 07 - Documentação</a>
 
 ## 1. US30 - Termo de uso
 
@@ -55,7 +55,7 @@ Critérios de aceitação:
 - <div style="text-align: justify">Deve estar logado no VivaBem.</div>
 - <div style="text-align: justify">Na página inicial, deve reportar que não está se sentindo bem. Então será direcionado a um questionário acerca do seu estado de saúde, para que fique registrado os dias que o usuário não se sentiu bem.</div>
 
-## Versionamento
+## <a>Versionamento</a>
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 09/09/2021 | Criação épico 07 | João Victor |

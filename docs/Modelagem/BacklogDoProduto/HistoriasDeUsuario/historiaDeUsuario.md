@@ -26,13 +26,13 @@ Como dito anteriormente na aba de backlog, os épicos representam uma coleção 
 
 - [Épico 05 - Área de exames](epico05.md) <br>
 
-- [Épico 06 - Área mais opções](epico05.md) <br>
+- [Épico 06 - Área mais opções](epico06.md) <br>
 
-- [Épico 07 - Documentação](epico05.md) <br>
+- [Épico 07 - Documentação](epico07.md) <br>
 
 ## <a>Referências e Bibliografias</a>
 
-> O Backlog do Produto - Product Backlog. O Dono do Produto, 9 jan. 2020. Disponível em: <https://odonodoproduto.com/backlog-do-produto/>. Acesso em: 16/03/2020.
+> GLAUCO. User Stories - o que são? como usar?. Disponível em: https://blog.myscrumhalf.com/user-stories-o-que-sao-como-usar/.Acesso em: 29 de mar. de 2021
 
 ## <a>Versionamento</a>
 | Versão | Data | Modificação | Autor |
