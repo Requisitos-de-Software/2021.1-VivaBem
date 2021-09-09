@@ -31,6 +31,7 @@ nav:
         - Léxicos: "Modelagem/lexicos.md"
         - Especificação Suplementar: "Modelagem/especificacao_suplementar.md"
         - Backlog: "Modelagem/backlog.md"
+        - NFR Framework: "Modelagem/NFR_framework.md"
 extra_css:
   - "style/index.css"
 
