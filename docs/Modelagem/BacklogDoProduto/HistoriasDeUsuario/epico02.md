@@ -8,7 +8,7 @@ Eu, como <b>usuário</b>, quero <b>recuperar minhas informações de login</b> p
 
 Critérios de aceitação:
 
-- <div style="text-align: justify">Deve conter um ícone de configurações gerais (...) na tela inicial para se verificar suas informações sobre o aplicativo.</div>
+- <div style="text-align: justify">Deve conter um ícone de configurações gerais (...) na tela inicial para verificar suas informações sobre o aplicativo.</div>
 - <div style="text-align: justify">Deve conter conexão com a internet.</div>
 
 ## 2. US07 - Informar estado de saúde
@@ -25,7 +25,7 @@ Critérios de aceitação:
 ## 3. US08 - Registrar efeito colateral
 
 <div style="text-align: justify">
-Eu, como <b>usuário</b>, quero <b>registrar efeito colateral</b> para que eu <b>seja alertato futuramente sobre essa medicação</b>.
+Eu, como <b>usuário</b>, quero <b>registrar efeito colateral</b> para que eu <b>seja alertado futuramente sobre essa medicação</b>.
 </div>
 
 Critérios de aceitação:

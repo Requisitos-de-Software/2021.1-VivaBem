@@ -37,7 +37,7 @@ Eu, como <b>usuário</b>, quero <b>consultar a lista de medicamentos</b> para qu
 
 Critérios de aceitação:
 
-- <div style="text-align: justify">Deve ter uma lista de todos os medicamentos que o usuário estaja tomando </div>
+- <div style="text-align: justify">Deve ter uma lista de todos os medicamentos que o usuário esteja tomando </div>
 - <div style="text-align: justify">Deve ter uma opção selecionar um medicamento da lista para ver suas informações</div>
 - <div style="text-align: justify">Deve ter uma opção de alterar as infomações de um medicamento da lista</div>
 - <div style="text-align: justify">Deve ter uma opção de apagar um medicamento da lista</div>
