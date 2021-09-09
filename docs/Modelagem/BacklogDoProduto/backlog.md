@@ -109,7 +109,7 @@ O nosso Backlog possui as seguintes características:
 
 <br>
 
-## Bibliografia
+## <a>Bibliografia</a>
 <p align="justify">SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 15.</p>
 
 ## <a>Versionamento</a>
