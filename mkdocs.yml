@@ -30,7 +30,10 @@ nav:
         - Cenários: "Modelagem/cenarios.md"
         - Léxicos: "Modelagem/lexicos.md"
         - Especificação Suplementar: "Modelagem/especificacao_suplementar.md"
-        - Backlog: "Modelagem/backlog.md"
+        - Backlog do Produto:
+          - Backlog: Modelagem/BacklogDoProduto/backlog.md
+          - História de Usuário:
+              - História de Usuário: Modelagem/BacklogDoProduto/HistoriasDeUsuario/historiaDeUsuario.md
 extra_css:
   - "style/index.css"
 
