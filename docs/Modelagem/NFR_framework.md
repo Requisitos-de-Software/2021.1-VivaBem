@@ -71,7 +71,7 @@ atribuídos rótulos para os softgoals. Os tipos de rótulos utilizados são: sa
 
 ![Tipos de Rótulos](../img/tipo_rotulos.png)
 
-<figcaption><a href="../img/nfr_vivabem.png">Figura 3</a> - Tipo de Rótulos. Autor: SILVA, Reinaldo Antônio da</figcaption>
+<figcaption><a href="../img/tipo_rotulos.png">Figura 3</a> - Tipo de Rótulos. Autor: SILVA, Reinaldo Antônio da</figcaption>
 
 </center>
 
