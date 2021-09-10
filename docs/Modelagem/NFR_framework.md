@@ -60,6 +60,23 @@ Para construção do diagrama, foram utilizados os requisitos não funcionais el
 
 </center>
 
+## <a>Avaliação</a>
+<p style="text-indent: 20px; text-align: justify">
+O procedimento de avaliação determina o grau que os requisitos não funcionais são satisfeitos por um conjunto de decisões. Dessa forma, o procedimento de avaliação determina
+se cada softgoal ou interdependência do SIG foi suficientemente satisfeito. Para isso, são
+atribuídos rótulos para os softgoals. Os tipos de rótulos utilizados são: satisfeito, fracamente satisfeito, negado, fracamente negado, conflitante, indeterminado.
+</p>
+
+![Tipos de Rótulos](../img/tipo_rotulos.png)
+
+<figcaption><a href="/../img/nfr_vivabem.png">Figura 3</a> - Tipo de Rótulos. Autor: SILVA, Reinaldo Antônio da</figcaption>
+
+### <a>Nossa Avaliação</a>
+
+![nfr_vivabem_avaliacao](../img/nfr-vivabem-avaliacao.png)
+
+<figcaption><a href="/../img/nfr-vivabem-avaliacao.png">Figura 4</a> - Avaliação Diagrama NFR. Autor: Nathan Serra</figcaption>
+
 
 ## <a>Bibliografia</a>
 
@@ -77,3 +94,4 @@ SOMMERVILLE, I. Software engineering. 8. ed ed. Harlow: Addison-Wesley [u.a.], 2
 | 09/09/2021 |  1.1   |       Adição de introdução        |  Guilherme Vial  |
 | 09/09/2021 |  1.2   | Softgoals - Tipos e contribuições | Philipe Serafim  |
 | 09/09/2021 |  1.3   |           Diagrama NFR            | Philipe Serafim  |
+| 10/09/2021 |  1.4   |           Avaliação e Revisão     | Nathan Serra     |
