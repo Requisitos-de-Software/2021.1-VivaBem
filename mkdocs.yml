@@ -30,6 +30,7 @@ nav:
         - Cenários: "Modelagem/cenarios.md"
         - Léxicos: "Modelagem/lexicos.md"
         - Especificação Suplementar: "Modelagem/especificacao_suplementar.md"
+        - NFR Framework: "Modelagem/NFR_framework.md"
         - Backlog do Produto:
           - Backlog: Modelagem/BacklogDoProduto/backlog.md
           - História de Usuário:
