@@ -49,8 +49,17 @@ Além dos tipos de softgoals, também é possível determinar como os softgoals 
 
 ## <a>Metodologia</a>
 <p style="text-indent: 20px; text-align: justify">
-Em conjunto, os membros do time decidiram separar os requisitos não funcionais por temas para então desenvolver seu fluxograma.
+Para construção do diagrama, foram utilizados os requisitos não funcionais elicitados.
 </p>
+
+<center>
+
+![nfr_vivabem](../img/nfr_vivabem.png)
+
+<figcaption><a href="/../img/nfr_vivabem.png">Figura 2</a> - Diagrama NFR. Autor: Philipe Serafim</figcaption>
+
+</center>
+
 
 ## <a>Bibliografia</a>
 
@@ -58,10 +67,13 @@ CHUNG, L.; NIXON, B. A.; YU, E.; MYLOPOULOS, J. Non-functional requirements in s
 
 SILVA, Reinaldo Antônio da. NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Dissertação (Mestrado) – Universidade Federal de Pernambuco, 2019.
 
-## Versionamento
+SOMMERVILLE, I. Software engineering. 8. ed ed. Harlow: Addison-Wesley [u.a.], 2007.
+
+## <a>Versionamento</a>
 
 |    Data    | Versão |             Alteração             | Responsável(eis) |
 | :--------: | :----: | :-------------------------------: | :--------------: |
 | 09/09/2021 |  1.0   |       Criação do documento        |  Guilherme Vial  |
 | 09/09/2021 |  1.1   |       Adição de introdução        |  Guilherme Vial  |
 | 09/09/2021 |  1.2   | Softgoals - Tipos e contribuições | Philipe Serafim  |
+| 09/09/2021 |  1.3   |           Diagrama NFR            | Philipe Serafim  |
