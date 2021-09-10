@@ -9,6 +9,7 @@ As Histórias de Usuário criadas pelo nosso grupo seguem as seguintes caracter�
 </p>
 
 - Eu, como usuário gostaria de <a>[backlog - eu como usuário]</a>, para que eu <a>[backlog - para que eu]</a> ...
+- Critérios de aceitação: Ele representa os critérios mínimos necessários para que essa história seja concluída depois da construção do produto. Descrevendo as informações necessárias para o funcionamento do produto
 
 ## <a>Épicos</a>
 
