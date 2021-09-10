@@ -56,7 +56,7 @@ Para construção do diagrama, foram utilizados os requisitos não funcionais el
 
 ![nfr_vivabem](../img/nfr_vivabem.png)
 
-<figcaption><a href="/../img/nfr_vivabem.png">Figura 2</a> - Diagrama NFR. Autor: Philipe Serafim</figcaption>
+<figcaption><a href="../img/nfr_vivabem.png">Figura 2</a> - Diagrama NFR. Autor: Philipe Serafim</figcaption>
 
 </center>
 
@@ -71,7 +71,7 @@ atribuídos rótulos para os softgoals. Os tipos de rótulos utilizados são: sa
 
 ![Tipos de Rótulos](../img/tipo_rotulos.png)
 
-<figcaption><a href="/../img/nfr_vivabem.png">Figura 3</a> - Tipo de Rótulos. Autor: SILVA, Reinaldo Antônio da</figcaption>
+<figcaption><a href="../img/nfr_vivabem.png">Figura 3</a> - Tipo de Rótulos. Autor: SILVA, Reinaldo Antônio da</figcaption>
 
 </center>
 
@@ -81,7 +81,7 @@ atribuídos rótulos para os softgoals. Os tipos de rótulos utilizados são: sa
 
 ![nfr_vivabem_avaliacao](../img/nfr-vivabem-avaliacao.png)
 
-<figcaption><a href="/../img/nfr-vivabem-avaliacao.png">Figura 4</a> - Avaliação Diagrama NFR. Autor: Nathan Serra</figcaption>
+<figcaption><a href="../img/nfr-vivabem-avaliacao.png">Figura 4</a> - Avaliação Diagrama NFR. Autor: Nathan Serra</figcaption>
 
 </center>
 
