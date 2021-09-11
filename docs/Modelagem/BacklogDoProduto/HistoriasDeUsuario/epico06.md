@@ -9,7 +9,7 @@ Eu, como <b>usuário</b>, quero <b>alterar as configurações</b> para que eu <b
 Critérios de aceitação:
 
 - <div style="text-align: justify">Deve ter um botão configurações para configurar o aplicativo.</div>
-- <div style="text-align: justify">Configurar os sons dos alarmes e notificaçoes.</div>
+- <div style="text-align: justify">Configurar os sons dos alarmes e notificações.</div>
 - <div style="text-align: justify">Gerenciar senha</div>
 
 

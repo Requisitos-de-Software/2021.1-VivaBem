@@ -15,7 +15,7 @@ Critérios de aceitação:
 ## 2. US18 - Habilitar/desabilitar recebimento de notificações
 
 <div style="text-align: justify">
-Eu, como <b>usuário</b>, quero <b>habilitar ou desebalitar as notificações recebidas</b> para que eu <b>selecione os medicamentos que quero ser lembrado</b>.
+Eu, como <b>usuário</b>, quero <b>habilitar ou desabilitar as notificações recebidas</b> para que eu <b>selecione os medicamentos que quero ser lembrado</b>.
 </div>
 
 <br>

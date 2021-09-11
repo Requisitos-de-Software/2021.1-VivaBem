@@ -77,7 +77,7 @@ Critérios de aceitação:
 
 - <div style="text-align: justify">Deve conter conexão com o VivaBem.</div>
 - <div style="text-align: justify">Deve conter ao menos um evento já registrado.</div>
-- <div style="text-align: justify">Deve conter um botão com um símbolo de um "Calendário" e assim o usuário será direcionado para a página de calendáriojoao.</div>
+- <div style="text-align: justify">Deve conter um botão com um símbolo de um "Calendário" e assim o usuário será direcionado para a página de calendário.</div>
 
 ## <a>Versionamento</a>
 | Versão | Data | Modificação | Autor |

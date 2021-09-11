@@ -12,7 +12,7 @@ Critérios de aceitação:
 - <div style="text-align: justify">Deve ter um campo para inserir o tipo do exame</div>
 - <div style="text-align: justify">Deve ter um campo para inserir a data do exame</div>
 - <div style="text-align: justify">Deve ter um campo para inserir o local do exame</div>
-- <div style="text-align: justify">Deve ter um campo para inserir a Unidade de saúde soliciante do exame</div>
+- <div style="text-align: justify">Deve ter um campo para inserir a Unidade de saúde solicitante do exame</div>
 - <div style="text-align: justify">Deve ter um campo para inserir o nome do exame</div>
 
 ## 2. US22 - Ser notificado com antecedencia o horário do exame
@@ -38,13 +38,13 @@ Critérios de aceitação:
 
 - <div style="text-align: justify">Deve ter uma lista de todos os exames que o usuário realizou e agendou </div>
 - <div style="text-align: justify">Deve ter uma opção selecionar um exame da lista para ver suas informações</div>
-- <div style="text-align: justify">Deve ter uma opção de alterar as infomações de um exame da lista</div>
+- <div style="text-align: justify">Deve ter uma opção de alterar as informações de um exame da lista</div>
 - <div style="text-align: justify">Deve ter uma opção de apagar um exame da lista</div>
 
 ## 4. US23 - Confirmar realização de exame, consulta ou compromissos
 
 <div style="text-align: justify">
-Eu, como <b>usuário</b>, quero <b>confirmar realização de exame, consulta ou compromissos</b> para que eu <b>ccontrole as ações, dependendo da situação</b>.
+Eu, como <b>usuário</b>, quero <b>confirmar realização de exame, consulta ou compromissos</b> para que eu <b>controle as ações, dependendo da situação</b>.
 </div>
 
 Critérios de aceitação:

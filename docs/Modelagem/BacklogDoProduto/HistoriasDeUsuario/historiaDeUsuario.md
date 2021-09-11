@@ -31,9 +31,9 @@ Como dito anteriormente na aba de backlog, os épicos representam uma coleção 
 
 - [Épico 07 - Documentação](epico07.md) <br>
 
-## <a>Referências e Bibliografias</a>
+## <a>Bibliografia</a>
 
-> GLAUCO. User Stories - o que são? como usar?. Disponível em: https://blog.myscrumhalf.com/user-stories-o-que-sao-como-usar/.Acesso em: 29 de mar. de 2021
+GLAUCO. User Stories - o que são? como usar?. Disponível em: https://blog.myscrumhalf.com/user-stories-o-que-sao-como-usar/.Acesso em: 29 de mar. de 2021
 
 ## <a>Versionamento</a>
 | Versão | Data | Modificação | Autor |
