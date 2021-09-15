@@ -1,4 +1,4 @@
-# Épico 01 - Acesso ao Aplicativo
+# <a>Épico 01 - Acesso ao Aplicativo</a>
 
 ## 1. US01 - Realizar o Cadastro
 
@@ -45,7 +45,7 @@ Eu, como <b>usuário</b>, quero <b>recuperar a senha</b> para que eu <b>caso esq
 Critérios de aceitação:
 
 - <div style="text-align: justify">Deve ter um botão "Recuperar senha" caso o usuário tenha esquecido a senha</div>
-- <div style="text-align: justify">Deve ter opções para o local de envio, por exemlo, e-mail e número de celular</div>
+- <div style="text-align: justify">Deve ter opções para o local de envio, por exemplo, e-mail e número de celular</div>
 
 ## 5. US05 - Alterar a senha
 
@@ -60,9 +60,8 @@ Critérios de aceitação:
 - <div style="text-align: justify">Deve ter um campo para confirmar a nova senha</div>
 
 
-## Versionamento
+## <a>Versionamento</a>
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 09/09/2021 | Criação épico 01 | Ítalo Serra |
-
 | 1.1 | 09/09/2021 | Revisão do documento | João Victor|

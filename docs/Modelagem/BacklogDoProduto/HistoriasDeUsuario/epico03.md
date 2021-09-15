@@ -1,4 +1,4 @@
-# Épico 03 - Área de Medicações
+# <a>Épico 03 - Área de Medicações</a>
 
 ## 1. US13 - Realizar o cadastro de uma medicação
 
@@ -39,7 +39,7 @@ Critérios de aceitação:
 
 - <div style="text-align: justify">Deve ter uma lista de todos os medicamentos que o usuário esteja tomando </div>
 - <div style="text-align: justify">Deve ter uma opção selecionar um medicamento da lista para ver suas informações</div>
-- <div style="text-align: justify">Deve ter uma opção de alterar as infomações de um medicamento da lista</div>
+- <div style="text-align: justify">Deve ter uma opção de alterar as informações de um medicamento da lista</div>
 - <div style="text-align: justify">Deve ter uma opção de apagar um medicamento da lista</div>
 
 ## 4. US16 - Aceitar, recusar ou adiar o alerta de uma medicação
@@ -52,12 +52,12 @@ Critérios de aceitação:
 
 - <div style="text-align: justify">Deve ter um alerta no horário marcado de cada medicação</div>
 - <div style="text-align: justify">Deve ter um botão "aceitar" caso seja tomado o medicamento na hora</div>
-- <div style="text-align: justify">Deve ter um botão "adiar" caso queira tomadar o medicamento mais tarde</div>
+- <div style="text-align: justify">Deve ter um botão "adiar" caso queira tomar o medicamento mais tarde</div>
 - <div style="text-align: justify">Deve ter um botão "recusar" caso não queira tomar o medicamento na hora</div>
 
 
 
-## Versionamento
+## <a>Versionamento</a>
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 09/09/2021 | Criação épico 03 | Ítalo Serra |

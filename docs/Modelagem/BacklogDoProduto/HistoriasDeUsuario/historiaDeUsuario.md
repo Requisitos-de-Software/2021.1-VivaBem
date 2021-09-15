@@ -9,17 +9,31 @@ As Histórias de Usuário criadas pelo nosso grupo seguem as seguintes caracter�
 </p>
 
 - Eu, como usuário gostaria de <a>[backlog - eu como usuário]</a>, para que eu <a>[backlog - para que eu]</a> ...
+- Critérios de aceitação: Ele representa os critérios mínimos necessários para que essa história seja concluída depois da construção do produto. Descrevendo as informações necessárias para o funcionamento do produto
 
 ## <a>Épicos</a>
 
 <p style="text-indent: 20px; text-align: justify">
 Como dito anteriormente na aba de backlog, os épicos representam uma coleção de itens no Backlog, podendo representar também histórias de usuários que não foram detalhadas por serem grandes ou por serem incertas e não poderem ser incrementadas no produto.
 </p>
-Epicos 1
 
-## <a>Referências e Bibliografias</a>
+- [Épico 01 - Acesso ao aplicativo](epico01.md) <br>
 
-> O Backlog do Produto - Product Backlog. O Dono do Produto, 9 jan. 2020. Disponível em: <https://odonodoproduto.com/backlog-do-produto/>. Acesso em: 16/03/2020.
+- [Épico 02 - Área de usuário](epico02.md) <br>
+
+- [Épico 03 - Área de medicações](epico03.md) <br>
+
+- [Épico 04 - Área de notificações](epico04.md) <br>
+
+- [Épico 05 - Área de exames](epico05.md) <br>
+
+- [Épico 06 - Área mais opções](epico06.md) <br>
+
+- [Épico 07 - Documentação](epico07.md) <br>
+
+## <a>Bibliografia</a>
+
+GLAUCO. User Stories - o que são? como usar?. Disponível em: https://blog.myscrumhalf.com/user-stories-o-que-sao-como-usar/.Acesso em: 29 de mar. de 2021
 
 ## <a>Versionamento</a>
 | Versão | Data | Modificação | Autor |

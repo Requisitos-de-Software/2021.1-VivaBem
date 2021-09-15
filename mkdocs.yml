@@ -30,14 +30,22 @@ nav:
         - Cenários: "Modelagem/cenarios.md"
         - Léxicos: "Modelagem/lexicos.md"
         - Especificação Suplementar: "Modelagem/especificacao_suplementar.md"
+        - NFR Framework: "Modelagem/NFR_framework.md"
         - Backlog do Produto:
           - Backlog: Modelagem/BacklogDoProduto/backlog.md
           - História de Usuário:
               - História de Usuário: Modelagem/BacklogDoProduto/HistoriasDeUsuario/historiaDeUsuario.md
+              - Épico 01 - Acesso ao aplicativo: Modelagem/BacklogDoProduto/HistoriasDeUsuario/epico01.md
+              - Épico 02 - Área de usuário: Modelagem/BacklogDoProduto/HistoriasDeUsuario/epico02.md
+              - Épico 03 - Área de medicação: Modelagem/BacklogDoProduto/HistoriasDeUsuario/epico03.md
+              - Épico 04 - Área de notificação: Modelagem/BacklogDoProduto/HistoriasDeUsuario/epico04.md
+              - Épico 05 - Área de exames: Modelagem/BacklogDoProduto/HistoriasDeUsuario/epico05.md
+              - Épico 06 - Área mais opções: Modelagem/BacklogDoProduto/HistoriasDeUsuario/epico06.md
+              - Épico 07 - Documentação: Modelagem/BacklogDoProduto/HistoriasDeUsuario/epico07.md
     - Analise: 
         - Verificação: 
               - Backlog: Analise/Verificacao/vBacklog.md
-
+              
 extra_css:
   - "style/index.css"
 

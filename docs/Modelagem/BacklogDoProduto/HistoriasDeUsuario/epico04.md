@@ -1,4 +1,4 @@
-# Épico 04 - Área de notificações
+# <a>Épico 04 - Área de notificações</a>
 
 ## 1. US17 - Receber notificação
 
@@ -15,7 +15,7 @@ Critérios de aceitação:
 ## 2. US18 - Habilitar/desabilitar recebimento de notificações
 
 <div style="text-align: justify">
-Eu, como <b>usuário</b>, quero <b>habilitar ou desebalitar as notificações recebidas</b> para que eu <b>selecione os medicamentos que quero ser lembrado</b>.
+Eu, como <b>usuário</b>, quero <b>habilitar ou desabilitar as notificações recebidas</b> para que eu <b>selecione os medicamentos que quero ser lembrado</b>.
 </div>
 
 <br>
@@ -50,7 +50,7 @@ Critérios de aceitação:
 
 
 
-## Versionamento
+## <a>Versionamento</a>
 
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|

@@ -38,7 +38,7 @@ O nosso Backlog possui as seguintes características:
 | -- | ------------------------------------ |----------- | ---------- | --------------- |
 | US06 | gostaria de recuperar minhas informações de login | mantenha atualizado meus dados pessoais | Must | RF21 |
 | US07 | gostaria de informar como estou me sentindo | receba auxílio do aplicativo | Should | RF06 |
-| US08 | gostaria registrar efeito colateral | seja alertato | Must | RF07 |
+| US08 | gostaria registrar efeito colateral | seja alertado | Must | RF07 |
 | US09 | gostaria de visualizar lista de compromissos do dia | organize minha rotina | Should | RF08 |
 | US10 | gostaria de registrar evento | seja alertado do evento | Must | RF09 |
 | US11 | gostaria de editar ou excluir evento | modifique minha agenda de acordo com minha rotina | Must | RF10 |
@@ -109,7 +109,7 @@ O nosso Backlog possui as seguintes características:
 
 <br>
 
-## Bibliografia
+## <a>Bibliografia</a>
 <p align="justify">SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 15.</p>
 
 ## <a>Versionamento</a>
