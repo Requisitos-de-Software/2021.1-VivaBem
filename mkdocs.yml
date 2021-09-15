@@ -34,6 +34,10 @@ nav:
           - Backlog: Modelagem/BacklogDoProduto/backlog.md
           - História de Usuário:
               - História de Usuário: Modelagem/BacklogDoProduto/HistoriasDeUsuario/historiaDeUsuario.md
+    - Analise: 
+        - Verificação: 
+              - Backlog: Analise/Verificacao/vBacklog.md
+
 extra_css:
   - "style/index.css"
 

@@ -51,9 +51,9 @@ O nosso Backlog possui as seguintes características:
 
 | ID | Eu, como um usuário | Para que eu | Prioridade | Rastreabilidade |
 | -- | ------------------------------------ |----------- | ---------- | --------------- |
-| US13 | gostaria de realizar o cadastro de uma medicação | tenha o medicamento registrado no aplicativo | Must | RF16 |
+| US13 | gostaria de realizar o cadastro de uma medicação | consiga acessar informações do medicamento | Must | RF16 |
 | US14 | gostaria de ser notificado no horário marcado das medicações | não esqueça e tome os medicamentos  | Must | RF13 |
-| US15 | gostaria de consultar a lista de medicamentos | veja todos as medicações que estão sendo sendo tomadas | Must | RF15 |
+| US15 | gostaria de consultar a lista de medicamentos | veja todos as medicações que estão cadastradas | Must | RF15 |
 | US16 | gostaria de aceitar, recusar ou adiar o alerta de uma medicação | controle as ações, dependendo da situação | Must | RF27 |
 
 <br>
@@ -66,7 +66,7 @@ O nosso Backlog possui as seguintes características:
 | US17 | gostaria de receber notificações/avisos | me mantenha atualizado | Must | RF22 |
 | US18 | gostaria de habilitar/desabilitar recebimento de notificações | selecione os medicamentos que quero ser lembrado | Should | RF23 |
 | US19 | gostaria de gerenciar função "soneca" | seja lembrado alguns minutos após um alarme ser disparado | Could | RF24 |
-| US20 | gostaria de receber push com alarme do medicamento | não esqueça de tomar uma medicação | Could | RF28 |
+| US20 | gostaria de receber push com alarme do medicamento | não esqueça de tomar uma medicação | Must | RF28 |
 
 <br>
 
@@ -92,7 +92,7 @@ O nosso Backlog possui as seguintes características:
 | US26 | gostaria de cadastrar um médico para contato | Possa ligar em caso de emergência | Should | RF25 |
 | US27 | gostaria de visualizar as novidades | Possa me manter atualizado com as notícias do mundo da saúde | Could | RF22 |
 | US28 | gostaria de ver o rendimento do mês | Veja se estou cumprindo com as metas | Should | RF18 |
-| US29 | gostaria de visualizar os termos de uso | Veja e concorde com os termos dados | Could | RF19 |
+| US29 | gostaria de visualizar os termos de uso | Veja e concorde com os termos dados | Must | RF19 |
 
 <br>
 

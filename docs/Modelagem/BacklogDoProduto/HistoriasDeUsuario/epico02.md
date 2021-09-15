@@ -67,7 +67,7 @@ Critérios de aceitação:
 - <div style="text-align: justify">Deve conter conexão com o VivaBem.</div>
 - <div style="text-align: justify">Deve conter um botão "..." no "Evento" desejado, e selecionar a opção de "editar" ou "remover", e assim será atualizada a lista de eventos.</div>
 
-## 7. US11 -  Visualizar calendário
+## 7. US12 -  Visualizar calendário
 
 <div style="text-align: justify">
 Eu, como <b>usuário</b>, quero <b> visualizar calendário</b> para que eu <b>veja meus eventos cadastrados</b>.
