@@ -42,6 +42,12 @@ nav:
               - Épico 05 - Área de exames: Modelagem/BacklogDoProduto/HistoriasDeUsuario/epico05.md
               - Épico 06 - Área mais opções: Modelagem/BacklogDoProduto/HistoriasDeUsuario/epico06.md
               - Épico 07 - Documentação: Modelagem/BacklogDoProduto/HistoriasDeUsuario/epico07.md
+    - Analise: 
+        - Verificação: 
+              - Rich Picture: Analise/Verificacao/vRichPicture.md
+              - Cenários: Analise/Verificacao/vCenarios.md
+              - Backlog: Analise/Verificacao/vBacklog.md
+              
 extra_css:
   - "style/index.css"
 
