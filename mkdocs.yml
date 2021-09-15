@@ -44,6 +44,8 @@ nav:
               - Épico 07 - Documentação: Modelagem/BacklogDoProduto/HistoriasDeUsuario/epico07.md
     - Analise: 
         - Verificação: 
+              - Rich Picture: Analise/Verificacao/vRichPicture.md
+              - Cenários: Analise/Verificacao/vCenarios.md
               - Backlog: Analise/Verificacao/vBacklog.md
               
 extra_css:
