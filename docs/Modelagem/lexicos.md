@@ -19,55 +19,55 @@
 | :---- | :--------------------------------------------------------------- | :----------------------------------------------------------------------------------------- | :-------- |
 | Verbo | Ação de adicionar os resultados de exames previamente realizados | Possibilita armazenar os resultados dos exames bem como criar um histórico ao armazená-los |           |
 
-### <a>L03 - Adicionar resultados</a>
-| Tipo  | Noção                                                            | Impacto                                                                                    | Sinônimos         |
-| :---- | :--------------------------------------------------------------- | :----------------------------------------------------------------------------------------- | :---------------- |
-| Verbo | Ação de adicionar os resultados de exames previamente realizados | Possibilita armazenar os resultados dos exames bem como criar um histórico ao armazená-los | Adicionar remédio |
-
-### <a>L04 - Autenticar usuário</a>
+### <a>L03 - Autenticar usuário</a>
 | Tipo  | Noção                                 | Impacto                            | Sinônimos     |
 | :---- | :------------------------------------ | :--------------------------------- | :------------ |
 | Verbo | Necessário para utilizar o aplicativo | Realizar autenticação com o gov.br | Login, Entrar |
 
-### <a>L05 - Calendário</a>
+### <a>L04 - Calendário</a>
 | Tipo   | Noção                                                                          | Impacto                                                | Sinônimos |
 | :----- | :----------------------------------------------------------------------------- | :----------------------------------------------------- | :-------- |
 | Objeto | Local onde são ilustradas todos os exames e consultas cadastradas pelo usuário | Cadastrar exames e consultas para receber notificações |           |
 
-### <a>L06 - Dados do usuário</a>
+### <a>L05 - Dados do usuário</a>
 | Tipo   | Noção                                                                     | Impacto                                    | Sinônimos            |
 | :----- | :------------------------------------------------------------------------ | :----------------------------------------- | :------------------- |
 | Objeto | Área onde é possível ver as informações do usuário contidas no ConecteSUS | Visualização e modificação das informações | Informações pessoais |
 
-### <a>L07 - Efeito colateral</a>
+### <a>L06 - Efeito colateral</a>
 | Tipo   | Noção                                                                   | Impacto                                                                                 | Sinônimos                                 |
 | :----- | :---------------------------------------------------------------------- | :-------------------------------------------------------------------------------------- | :---------------------------------------- |
 | Objeto | Local onde é possível visualizar os efeitos colaterais dos medicamentos | Visualizar informações sobre reações medicamentosas, efeitos colaterais e como proceder | Implicação, efeito paralelo, consequência |
 
-### <a>L08 - Informar vacina</a>
+### <a>L07 - Informar vacina</a>
 | Tipo  | Noção                                    | Impacto                                                                       | Sinônimos            |
 | :---- | :--------------------------------------- | :---------------------------------------------------------------------------- | :------------------- |
 | Verbo | Ação de informar a data de uma vacinação | Permite acesso ao histórico de vacinação bem como a data das próximas vacinas | Informar imunizantes |
 
-### <a>L09 - Lista de Medicamentos</a>
+### <a>L08 - Lista de Medicamentos</a>
 | Tipo   | Noção                                                                                                                        | Impacto                                                                                 | Sinônimos |
 | :----- | :--------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------- | :-------- |
 | Objeto | Local onde é possível visualizar todos os medicamentos cadastrados no SICLOM (Sistema de Controle Logístico de Medicamentos) | Possibilita visualizar os medicamentos registrados e autorizados no território nacional |           |
 
-### <a>L10 - Marcar consulta</a>
+### <a>L09 - Marcar consulta</a>
 | Tipo  | Noção                                   | Impacto                                 | Sinônimos          |
 | :---- | :-------------------------------------- | :-------------------------------------- | :----------------- |
 | Verbo | Ação de adicionar e modificar consultas | Adicionar consultas para ser notificado | Marcar atendimento |
 
-### <a>L11 - Notificações</a>
+### <a>L10 - Notificações</a>
 | Tipo   | Noção                                                                      | Impacto                                                                                                            | Sinônimos       |
 | :----- | :------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------- | :-------------- |
 | Objeto | Conjunto de informações necessárias para lembrar o usuário de algum evento | Possibilita que o usuário tenha acesso a todas as informações necessárias para reagir a algum evento já cadastrado | Lembrete, aviso |
 
-### <a>L12 - Notificar</a>
+### <a>L11 - Notificar</a>
 | Tipo  | Noção                                                                        | Impacto                                                                                 | Sinônimos       |
 | :---- | :--------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------- | :-------------- |
 | Verbo | Ação realizada pelo aplicativo para lembrar o usuário dos Eventos cadastrado | O usuário será notificado com data, hora, local e informações sobre o Evento em questão | Lembrar, avisar |
+
+### <a>L12 - Medicamento</a>
+| Tipo   | Noção                                                                                 | Impacto                                                                  | Sinônimos |
+| :----- | :------------------------------------------------------------------------------------ | :----------------------------------------------------------------------- | :-------- |
+| Objeto | Substâncias que possuem propriedades curativas ou preventivas de doenças ou sintomas. | Permite visualizar e obter informações sobre os medicamentos disponíveis | Remédios  |
 
 ### <a>L13 - Realizar exame</a>
 | Tipo  | Noção                                                             | Impacto                                                                            | Sinônimos |
@@ -79,22 +79,33 @@
 | :---- | :--------------------------- | :------------------------------------------------ | :---------------------- |
 | Verbo | Ação de adicionar um sintoma | Possibilita a criação de um histórico de sintomas | Manifestações, indícios |
 
-### <a>L15 - Visualizar eventos</a>
+### <a>L15 - Resultado</a>
+| Tipo   | Noção                                                                                                                                                          | Impacto                                                               | Sinônimos |
+| :----- | :------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------- | :-------- |
+| Objeto | Resultado dos exames realizados, que trazem informações valiosas sobre a situação do paciente em uma data específica, podendo ou não conter um parecer médico. | Permite o usuário ter uma visão mais geral dos exames que já realizou | Laudo     |
+
+### <a>L16 - Vacina</a>
+| Tipo   | Noção                                                       | Impacto                                                              | Sinônimos             |
+| :----- | :---------------------------------------------------------- | :------------------------------------------------------------------- | :-------------------- |
+| Objeto | Recurso medicamentoso que fornece imunidade adquirida ativa | Permitir visualizar e obter informações sobre as vacinas disponíveis | Imunizante, antivírus |
+
+### <a>L17 - Visualizar eventos</a>
 | Tipo  | Noção                                                                      | Impacto                                                                                                    | Sinônimos   |
 | :---- | :------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- | :---------- |
 | Verbo | Ação de visualizar os eventos (consultas, exames) cadastrados pelo usuário | São mostrados todos as consultas e exames, bem como resultados e prescrições, caso tenham sido adicionadas | Ocorrências |
 
-### <a>L16 - Visualizar informações</a>
+### <a>L18 - Visualizar informações</a>
 | Tipo  | Noção                                        | Impacto                                      | Sinônimos        |
 | :---- | :------------------------------------------- | :------------------------------------------- | :--------------- |
 | Verbo | Ação de visualizar as informações do usuário | Possibilita acesso às informações do usuário | Visualizar dados |
 
 ## <a>Versionamento</a>
 
-|    Data    | Versão |      Alteração       | Responsável(eis) |
-| :--------: | :----: | :------------------: | :--------------: |
-| 28/08/2021 |  1.0   | Criação do documento | Philipe Serafim  |
-| 29/08/2021 |  1.1   |  Adição dos léxicos  | Philipe Serafim  |
+|    Data    | Versão |          Alteração           | Responsável(eis) |
+| :--------: | :----: | :--------------------------: | :--------------: |
+| 28/08/2021 |  1.0   |     Criação do documento     | Philipe Serafim  |
+| 29/08/2021 |  1.1   |      Adição dos léxicos      | Philipe Serafim  |
+| 16/09/2021 |  1.2   | Adicionado léxicos faltantes | Philipe Serafim  |
 
 
 ## <a>Bibliografia</a>
