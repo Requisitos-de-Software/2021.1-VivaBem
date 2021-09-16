@@ -47,7 +47,9 @@ nav:
               - Rich Picture: Analise/Verificacao/vRichPicture.md
               - Cenários: Analise/Verificacao/vCenarios.md
               - Backlog: Analise/Verificacao/vBacklog.md
-              
+        - Validação:
+              - Protótipo: Analise/Validacao/prototipo.md
+
 extra_css:
   - "style/index.css"
 
