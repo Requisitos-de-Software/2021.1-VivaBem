@@ -44,10 +44,16 @@ nav:
               - Épico 07 - Documentação: Modelagem/BacklogDoProduto/HistoriasDeUsuario/epico07.md
     - Analise: 
         - Verificação: 
+              - Introdução: Analise/Verificacao/vIntroducao.md
               - Rich Picture: Analise/Verificacao/vRichPicture.md
               - Cenários: Analise/Verificacao/vCenarios.md
               - Backlog: Analise/Verificacao/vBacklog.md
               - NFR : Analise/Verificacao/vNFR.md
+              - Casos de Usos: Analise/Verificacao/vCasosUso.md
+              - Lexico: Analise/Verificacao/vLexicos.md
+        - Validação: 
+              - Validação Informal: Analise/Validacao/validacao-informal.md
+              - Prototipo: Analise/Validacao/prototipo.md
               
 extra_css:
   - "style/index.css"
