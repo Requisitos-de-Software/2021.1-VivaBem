@@ -47,6 +47,7 @@ nav:
               - Rich Picture: Analise/Verificacao/vRichPicture.md
               - Cenários: Analise/Verificacao/vCenarios.md
               - Backlog: Analise/Verificacao/vBacklog.md
+              - NFR : Analise/Verificacao/vNFR.md
               
 extra_css:
   - "style/index.css"
