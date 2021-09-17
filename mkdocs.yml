@@ -48,6 +48,7 @@ nav:
               - Rich Picture: Analise/Verificacao/vRichPicture.md
               - Cenários: Analise/Verificacao/vCenarios.md
               - Backlog: Analise/Verificacao/vBacklog.md
+              - NFR : Analise/Verificacao/vNFR.md
               - Casos de Usos: Analise/Verificacao/vCasosUso.md
               - Lexico: Analise/Verificacao/vLexicos.md
         - Validação: 
