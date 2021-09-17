@@ -47,8 +47,14 @@ nav:
               - Rich Picture: Analise/Verificacao/vRichPicture.md
               - Cenários: Analise/Verificacao/vCenarios.md
               - Backlog: Analise/Verificacao/vBacklog.md
+              - Léxicos: Analise/Verificacao/vLexicos.md
+              - Casos de Uso: Analise/Verificacao/vCasosUso.md
         - Validação:
               - Protótipo: Analise/Validacao/prototipo.md
+
+
+
+              
 
 extra_css:
   - "style/index.css"
