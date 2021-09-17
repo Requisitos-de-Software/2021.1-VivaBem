@@ -5,7 +5,7 @@ theme:
     logo: img/vivaBem.svg
     favicon: img/vivaBem.svg
     palette:
-        primary: light blue
+        #primary: light blue
 nav:
     - Home: index.md
     - Apresentações: "Apresentacoes/apresentacoes.md"
@@ -44,9 +44,12 @@ nav:
               - Épico 07 - Documentação: Modelagem/BacklogDoProduto/HistoriasDeUsuario/epico07.md
     - Analise: 
         - Verificação: 
+              - Introdução: Analise/Verificacao/vIntroducao.md
               - Rich Picture: Analise/Verificacao/vRichPicture.md
               - Cenários: Analise/Verificacao/vCenarios.md
               - Backlog: Analise/Verificacao/vBacklog.md
+        - Validação: 
+              - Validação Informal: Analise/Verificacao/validacao-informal.md
               
 extra_css:
   - "style/index.css"
