@@ -25,9 +25,9 @@
 | Verbo | Necessário para utilizar o aplicativo | Realizar autenticação com o gov.br | Login, Entrar |
 
 ### <a>L04 - Calendário</a>
-| Tipo   | Noção                                                                          | Impacto                                                | Sinônimos |
-| :----- | :----------------------------------------------------------------------------- | :----------------------------------------------------- | :-------- |
-| Objeto | Local onde são ilustradas todos os exames e consultas cadastradas pelo usuário | Cadastrar exames e consultas para receber notificações |           |
+| Tipo   | Noção                                                                          | Impacto                                                                                                                          | Sinônimos |
+| :----- | :----------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------- | :-------- |
+| Objeto | Local onde são ilustradas todos os exames e consultas cadastradas pelo usuário | Visualizar de forma geral todos os eventos passados e futuros, sejam eles consultas, exames, resultados, vacinas ou medicamentos |           |
 
 ### <a>L05 - Dados do usuário</a>
 | Tipo   | Noção                                                                     | Impacto                                    | Sinônimos            |
@@ -50,14 +50,14 @@
 | Objeto | Local onde é possível visualizar todos os medicamentos cadastrados no SICLOM (Sistema de Controle Logístico de Medicamentos) | Possibilita visualizar os medicamentos registrados e autorizados no território nacional |           |
 
 ### <a>L09 - Marcar consulta</a>
-| Tipo  | Noção                                   | Impacto                                 | Sinônimos          |
-| :---- | :-------------------------------------- | :-------------------------------------- | :----------------- |
-| Verbo | Ação de adicionar e modificar consultas | Adicionar consultas para ser notificado | Marcar atendimento |
+| Tipo  | Noção                                   | Impacto                                                                                                                               | Sinônimos          |
+| :---- | :-------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------ | :----------------- |
+| Verbo | Ação de adicionar e modificar consultas | Possibilita o usuário adicionar uma consulta, previamente marcada, no aplicativo com todas local, data, hora, médico e especialidade. | Marcar atendimento |
 
 ### <a>L10 - Notificações</a>
-| Tipo   | Noção                                                                      | Impacto                                                                                                            | Sinônimos       |
-| :----- | :------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------- | :-------------- |
-| Objeto | Conjunto de informações necessárias para lembrar o usuário de algum evento | Possibilita que o usuário tenha acesso a todas as informações necessárias para reagir a algum evento já cadastrado | Lembrete, aviso |
+| Tipo   | Noção                                                                                                 | Impacto                                                                                                                               | Sinônimos       |
+| :----- | :---------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------ | :-------------- |
+| Objeto | Lembrete no aplicativo com conjunto de informações necessárias para lembrar o usuário de algum evento | O usuário será notificado na data e hora cadastradas e também será possível visualizar as informações relacionadas àquela notificação | Lembrete, aviso |
 
 ### <a>L11 - Notificar</a>
 | Tipo  | Noção                                                                        | Impacto                                                                                 | Sinônimos       |
@@ -65,9 +65,9 @@
 | Verbo | Ação realizada pelo aplicativo para lembrar o usuário dos Eventos cadastrado | O usuário será notificado com data, hora, local e informações sobre o Evento em questão | Lembrar, avisar |
 
 ### <a>L12 - Medicamento</a>
-| Tipo   | Noção                                                                                 | Impacto                                                                  | Sinônimos |
-| :----- | :------------------------------------------------------------------------------------ | :----------------------------------------------------------------------- | :-------- |
-| Objeto | Substâncias que possuem propriedades curativas ou preventivas de doenças ou sintomas. | Permite visualizar e obter informações sobre os medicamentos disponíveis | Remédios  |
+| Tipo   | Noção                                                                                 | Impacto                                                                                                         | Sinônimos |
+| :----- | :------------------------------------------------------------------------------------ | :-------------------------------------------------------------------------------------------------------------- | :-------- |
+| Objeto | Substâncias que possuem propriedades curativas ou preventivas de doenças ou sintomas. | A aplicação possuirá acesso a listagem de medicamentos disponíveis no país de acordo com os órgãos reguladores. | Remédios  |
 
 ### <a>L13 - Realizar exame</a>
 | Tipo  | Noção                                                             | Impacto                                                                            | Sinônimos |
@@ -85,27 +85,29 @@
 | Objeto | Resultado dos exames realizados, que trazem informações valiosas sobre a situação do paciente em uma data específica, podendo ou não conter um parecer médico. | Permite o usuário ter uma visão mais geral dos exames que já realizou | Laudo     |
 
 ### <a>L16 - Vacina</a>
-| Tipo   | Noção                                                       | Impacto                                                              | Sinônimos             |
-| :----- | :---------------------------------------------------------- | :------------------------------------------------------------------- | :-------------------- |
-| Objeto | Recurso medicamentoso que fornece imunidade adquirida ativa | Permitir visualizar e obter informações sobre as vacinas disponíveis | Imunizante, antivírus |
+| Tipo   | Noção                                                       | Impacto                                                                                                    | Sinônimos             |
+| :----- | :---------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- | :-------------------- |
+| Objeto | Recurso medicamentoso que fornece imunidade adquirida ativa | A aplicação possuirá acesso a listagem de vacinas disponíveis no país de acordo com os órgãos reguladores. | Imunizante, antivírus |
 
 ### <a>L17 - Visualizar eventos</a>
-| Tipo  | Noção                                                                      | Impacto                                                                                                    | Sinônimos   |
-| :---- | :------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- | :---------- |
-| Verbo | Ação de visualizar os eventos (consultas, exames) cadastrados pelo usuário | São mostrados todos as consultas e exames, bem como resultados e prescrições, caso tenham sido adicionadas | Ocorrências |
+| Tipo  | Noção                                                                      | Impacto                                                                                                               | Sinônimos   |
+| :---- | :------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------- | :---------- |
+| Verbo | Ação de visualizar os eventos (consultas, exames) cadastrados pelo usuário | Será possível visualizar todos os eventos previamente cadastrados (exames, consultas, vacinas, sintomas e resultados) | Ocorrências |
 
 ### <a>L18 - Visualizar informações</a>
-| Tipo  | Noção                                        | Impacto                                      | Sinônimos        |
-| :---- | :------------------------------------------- | :------------------------------------------- | :--------------- |
-| Verbo | Ação de visualizar as informações do usuário | Possibilita acesso às informações do usuário | Visualizar dados |
+| Tipo  | Noção                                        | Impacto                                                        | Sinônimos        |
+| :---- | :------------------------------------------- | :------------------------------------------------------------- | :--------------- |
+| Verbo | Ação de visualizar as informações do usuário | Uma tela que irá disponibilizar as informações sobre o usuário | Visualizar dados |
 
 ## <a>Versionamento</a>
 
-|    Data    | Versão |          Alteração           | Responsável(eis) |
-| :--------: | :----: | :--------------------------: | :--------------: |
-| 28/08/2021 |  1.0   |     Criação do documento     | Philipe Serafim  |
-| 29/08/2021 |  1.1   |      Adição dos léxicos      | Philipe Serafim  |
-| 16/09/2021 |  1.2   | Adicionado léxicos faltantes | Philipe Serafim  |
+|    Data    | Versão |                    Alteração                    | Responsável(eis) |
+| :--------: | :----: | :---------------------------------------------: | :--------------: |
+| 28/08/2021 |  1.0   |              Criação do documento               | Philipe Serafim  |
+| 29/08/2021 |  1.1   |               Adição dos léxicos                | Philipe Serafim  |
+| 16/09/2021 |  1.2   |          Adicionado léxicos faltantes           | Philipe Serafim  |
+| 18/09/2021 |  1.3   | Correção dos itens identificados na verificação | Philipe Serafim  |
+
 
 
 ## <a>Bibliografia</a>

@@ -7,23 +7,27 @@
 
 <center>
 
-|  ID   |         Léxico         |
-| :---: | :--------------------: |
-|  L01  | Adicionar Medicamento  |
-|  L02  |  Adicionar resultados  |
-|  L03  |   Autenticar usuário   |
-|  L04  |       Calendário       |
-|  L05  |    Dados do usuário    |
-|  L06  |    Efeito colateral    |
-|  L07  |    Informar vacina     |
-|  L08  | Lista de Medicamentos  |
-|  L09  |    Marcar consulta     |
-|  L10  |      Notificações      |
-|  L11  |       Notificar        |
-|  L12  |     Realizar exame     |
-|  L13  |   Registrar sintoma    |
-|  L14  |   Visualizar eventos   |
-|  L15  | Visualizar informações |
+
+|  ID   | Léxico |
+| :---: | :----: |
+|L01| Adicionar Medicamento|
+|L02| Adicionar resultados|
+|L03| Autenticar usuário|
+|L04| Calendário|
+|L05| Dados do usuário|
+|L06| Efeito colateral|
+|L07| Informar vacina|
+|L08| Lista de Medicamentos|
+|L09| Marcar consulta|
+|L10| Notificações|
+|L11| Notificar|
+|L12| Medicamento|
+|L13| Realizar exame|
+|L14| Registrar sintoma|
+|L15| Resultado|
+|L16| Vacina|
+|L17| Visualizar eventos|
+|L18| Visualizar informações|
 <figcaption>Tabela 01 - Léxicos</figcaption>
 </center>
 
@@ -102,7 +106,7 @@
 |   L11   |     9/9     | &#10004 | &#10004 | &#10004 | &#10004 | &#10004 | &#10004 | &#10004 | &#10004 | &#10004 |
 |   L12   |     8/9     | &#10004 | &#10004 | &#10004 | &#10004 | &#10004 | &#10006 | &#10004 | &#10004 | &#10004 |
 |   L13   |     8/9     | &#10004 | &#10004 | &#10004 | &#10004 | &#10004 | &#10004 | &#10004 | &#10004 | &#10006 |
-|   L14   |     9/9     | &#10004 | &#10004 | &#10004 | &#10006 | &#10004 | &#10004 | &#10004 | &#10004 | &#10004 |
+|   L14   |     9/9     | &#10004 | &#10004 | &#10004 | &#10004 | &#10004 | &#10004 | &#10004 | &#10004 | &#10004 |
 |   L15   |     8/9     | &#10004 | &#10004 | &#10004 | &#10004 | &#10004 | &#10006 | &#10004 | &#10004 | &#10004 |
 |   L16   |     8/9     | &#10004 | &#10004 | &#10004 | &#10004 | &#10004 | &#10006 | &#10004 | &#10004 | &#10004 |
 |   L17   |     8/9     | &#10004 | &#10004 | &#10004 | &#10004 | &#10004 | &#10006 | &#10004 | &#10004 | &#10004 |
