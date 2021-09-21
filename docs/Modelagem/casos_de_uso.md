@@ -13,10 +13,22 @@ O grupo fez os diagramas de caso de uso usando o <a>Lucid Chart</a>, aplicativo 
 
 # <a>Caso geral de uso</a>
 
+## <a>Primeira versão do diagrama</a>
+
 ![Casodeuso](../img/CasoGeralDeUso.png)
 <center>
 
-<figcaption>Figura 1: Caso de uso geral</figcaption>
+<figcaption>Figura 1: Caso de uso geral - Autor: Gabriel Avelino</figcaption>
+
+</center>
+<br/>
+
+## <a>Versão após a inspeção</a>
+
+![Casodeuso](../img/CasoDeUsoInspecao.png)
+<center>
+
+<figcaption>Figura 2: Caso de uso geral (Após a etapa de inspeção) - Autor: Gabriel Avelino</figcaption>
 
 </center>
 <br/>
@@ -30,7 +42,16 @@ Diagrama destaca o caso de uso específico da elipse verde do diagrama acima, mo
 
 <center>
 
-<figcaption>Figura 2: Caso de uso específico do "Mais opções"</figcaption>
+<figcaption>Figura 2: Caso de uso específico do "Mais opções" - Autor: Gabriel Avelino</figcaption>
+
+</center>
+<br/>
+
+![Casodeuso](../img/CasoMaisOpcoesInspecao.png)
+
+<center>
+
+<figcaption>Figura 2: Caso de uso específico do "Mais opções" (Após a fase de inspeção) - Autor: Gabriel Avelino</figcaption>
 
 </center>
 <br/>
