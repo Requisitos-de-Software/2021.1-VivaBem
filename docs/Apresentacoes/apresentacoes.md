@@ -15,3 +15,7 @@
 ## <a>Modelagem de Requisitos - Ágil (Histórias de Usuário, Backlogs) NFR Framework</a>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gPZMtsdB-CE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## <a>Verificação e Validação</a>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BvMSTqmaABI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
