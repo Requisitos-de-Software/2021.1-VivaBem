@@ -55,6 +55,18 @@ feito a rastreabilidade do tipo forward-to no nosso projeto.
 
 ### <a>Matriz de Requisitos Não Funcionais</a>
 
+| Id | Requisito | NFR | Especificação Suplementar |
+|:-:|--|--|--|
+| 01 | Apresentar as funcionalidades visualmente | [NFR - Diagrama](../Modelagem/NFR_framework.md#nossa-avaliacao) | [ES - Usabilidade](../Modelagem/especificacao_suplementar.md#suportabilidade) |
+| 02 | Demonstrar como as funcionalidades acontecem | [NFR - Diagrama](../Modelagem/NFR_framework.md#nossa-avaliacao) | [ES - Desempenho](../Modelagem/especificacao_suplementar.md#suportabilidade) |
+| 03 | Aumentar a acessibilidade para usuários com dificuldades | [NFR - Diagrama](../Modelagem/NFR_framework.md#nossa-avaliacao) | [ES - Usabilidade](../Modelagem/especificacao_suplementar.md#suportabilidade) |
+| 04 | O CPF do usuário não pode se repetir | [NFR - Diagrama](../Modelagem/NFR_framework.md#nossa-avaliacao) | [ES - Confiabilidade](../Modelagem/especificacao_suplementar.md#suportabilidade) |
+| 05 | O usuário deve ter um limite de medicamentos cadastrados | [NFR - Diagrama](../Modelagem/NFR_framework.md#nossa-avaliacao) | |
+| 06 | O usuário deve ter uma conta vinculada ao governo | [NFR - Diagrama](../Modelagem/NFR_framework.md#nossa-avaliacao) | [ES - Confiabilidade](../Modelagem/especificacao_suplementar.md#suportabilidade) |
+| 07 | Notificações caso o sistema esteja fora do ar | [NFR - Diagrama](../Modelagem/NFR_framework.md#nossa-avaliacao) | |
+| 08 | O E-mail do usuário não pode se repetir | [NFR - Diagrama](../Modelagem/NFR_framework.md#nossa-avaliacao) | [ES - Confiabilidade](../Modelagem/especificacao_suplementar.md#suportabilidade) |
+| 09 | Manter a segurança de dados do usuário | [NFR - Diagrama](../Modelagem/NFR_framework.md#nossa-avaliacao) | [ES - Confiabilidade](../Modelagem/especificacao_suplementar.md#suportabilidade) |
+| 10 | O aplicativo deverá rodar em qualquer plataforma mobile | [NFR - Diagrama](../Modelagem/NFR_framework.md#nossa-avaliacao) | [ES - Suportabilidade](../Modelagem/especificacao_suplementar.md#suportabilidade) |
 
 ## <a>Referências</a>
 
@@ -66,3 +78,4 @@ feito a rastreabilidade do tipo forward-to no nosso projeto.
 |--|--|--|--|
 | 1.0 | 07/10/2021 | Criação do documento na WIKI | Nathan Fernandes e Philipe Serafim |
 | 1.1 | 07/10/2021 | Correção de links no artefato | Guilherme Vial |
+| 1.2 | 07/10/2021 | Adição de Tópicos | Guilherme Vial |
