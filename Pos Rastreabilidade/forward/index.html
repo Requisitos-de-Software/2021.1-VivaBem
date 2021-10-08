@@ -1149,11 +1149,11 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#forward-form" class="md-nav__link">
-    Forward-Form
+  <a href="#forward-to" class="md-nav__link">
+    Forward-To
   </a>
   
-    <nav class="md-nav" aria-label="Forward-Form">
+    <nav class="md-nav" aria-label="Forward-To">
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
@@ -1242,11 +1242,11 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#forward-form" class="md-nav__link">
-    Forward-Form
+  <a href="#forward-to" class="md-nav__link">
+    Forward-To
   </a>
   
-    <nav class="md-nav" aria-label="Forward-Form">
+    <nav class="md-nav" aria-label="Forward-To">
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
@@ -1305,13 +1305,17 @@
 <p style="text-indent: 20px; text-align: justify">
 A pré-rastreabilidade, Como visto em entregas passadas, documenta a o contexto a partir do qual emergem os requisitos, 
 já a pós-rastreabilidade, que estamos abordando nesta entrega, vincula os requisitos ao desenho do sistema e sua 
-implementação. No primeiro tipo temos a rastrebilidade forward-to (para frente) liga documentos obtidos no processo 
+implementação. No primeiro tipo temos a rastreabilidade forward-to (para frente) liga documentos obtidos no processo 
 de elicitação a requisitos relevantes. Será abordado ao longo deste documento as caracteristicas assim como será
 feito a rastreabilidade do tipo forward-to no nosso projeto.
 </p>
 
 <h2 id="metodologia"><a>Metodologia</a></h2>
-<h2 id="forward-form"><a>Forward-Form</a></h2>
+<p style="text-indent: 20px; text-align: justify">
+Para Forward-To dos requisitos funcionais, foi ligado o requisitos funcionais aos seus respectivos cenários, léxicos, casos de uso e história de usuário, enquanto para o requisitos não funcionais foram relacionados aos seus respectivos NFR, especificação suplementar, cenário, léxico, casos de uso e história de usuário.
+</p>
+
+<h2 id="forward-to"><a>Forward-To</a></h2>
 <h3 id="matriz-de-requisitos-funcionais"><a>Matriz de Requisitos Funcionais</a></h3>
 <table>
 <thead>
@@ -1607,6 +1611,11 @@ feito a rastreabilidade do tipo forward-to no nosso projeto.
 <th>Requisito</th>
 <th>NFR</th>
 <th>Especificação Suplementar</th>
+<th></th>
+<th>Cenário</th>
+<th>Léxico</th>
+<th>Caso de uso</th>
+<th>História de usuário</th>
 </tr>
 </thead>
 <tbody>
@@ -1615,60 +1624,110 @@ feito a rastreabilidade do tipo forward-to no nosso projeto.
 <td>Apresentar as funcionalidades visualmente</td>
 <td><a href="../../Modelagem/NFR_framework/#nossa-avaliacao">NFR - Diagrama</a></td>
 <td><a href="../../Modelagem/especificacao_suplementar/#usabilidade">ES - Usabilidade</a></td>
+<td></td>
+<td><a href="../../Modelagem/cenarios/#c04-diario-do-usuario">C04-Diário do usuário</a></br><a href="../../Modelagem/cenarios/#c07-registrar-efeitos-colaterais">C07-Registrar efeitos colaterais</a></br> <a href="../../Modelagem/cenarios/#c08-realizar-interacao-medicamentosa">C08-Realizar interação medicamentosa</a></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td align="center">02</td>
 <td>Demonstrar como as funcionalidades acontecem</td>
 <td><a href="../../Modelagem/NFR_framework/#nossa-avaliacao">NFR - Diagrama</a></td>
 <td><a href="../../Modelagem/especificacao_suplementar/#desempenho">ES - Desempenho</a></td>
+<td></td>
+<td><a href="../../Modelagem/cenarios/#c04-diario-do-usuario">C04-Diário do usuário</a></br><a href="../../Modelagem/cenarios/#c07-registrar-efeitos-colaterais">C07-Registrar efeitos colaterais</a></br> <a href="../../Modelagem/cenarios/#c08-realizar-interacao-medicamentosa">C08-Realizar interação medicamentosa</a></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td align="center">03</td>
 <td>Aumentar a acessibilidade para usuários com dificuldades</td>
 <td><a href="../../Modelagem/NFR_framework/#nossa-avaliacao">NFR - Diagrama</a></td>
 <td><a href="../../Modelagem/especificacao_suplementar/#usabilidade">ES - Usabilidade</a></td>
+<td></td>
+<td><a href="../../Modelagem/cenarios/#c04-diario-do-usuario">C04-Diário do usuário</a></br><a href="../../Modelagem/cenarios/#c07-registrar-efeitos-colaterais">C07-Registrar efeitos colaterais</a></br> <a href="../../Modelagem/cenarios/#c08-realizar-interacao-medicamentosa">C08-Realizar interação medicamentosa</a></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td align="center">04</td>
 <td>O CPF do usuário não pode se repetir</td>
 <td><a href="../../Modelagem/NFR_framework/#nossa-avaliacao">NFR - Diagrama</a></td>
 <td><a href="../../Modelagem/especificacao_suplementar/#confiabilidade">ES - Confiabilidade</a></td>
+<td></td>
+<td><a href="../../Modelagem/cenarios/#c01-realizar-cadastro">C01-Realizar cadastro</a></td>
+<td></td>
+<td><a href="../../Modelagem/casos_de_uso/">UC01 Cadastrar usuário</a></td>
+<td></td>
 </tr>
 <tr>
 <td align="center">05</td>
 <td>O usuário deve ter um limite de medicamentos cadastrados</td>
 <td><a href="../../Modelagem/NFR_framework/#nossa-avaliacao">NFR - Diagrama</a></td>
 <td></td>
+<td></td>
+<td><a href="../../Modelagem/cenarios/#c02-realizar-cadastro-de-um-medicamento">C02-Realizar cadastro de um medicamento</a></td>
+<td><a href="./../Modelagem/lexico.md#l01-adicionar-medicamentos">L01 Adicionar Medicament</a></td>
+<td><a href="../../Modelagem/casos_de_uso/">UC02 Cadastrar medicação</a></td>
+<td><a href="../../Modelagem/BacklogDoProduto/HistoriasDeUsuario/epico03/#1-us13-realizar-o-cadastro-de-uma-medicacao">US13 Realizar cadastro de uma medicação</a></td>
 </tr>
 <tr>
 <td align="center">06</td>
 <td>O usuário deve ter uma conta vinculada ao governo</td>
 <td><a href="../../Modelagem/NFR_framework/#nossa-avaliacao">NFR - Diagrama</a></td>
 <td><a href="../../Modelagem/especificacao_suplementar/#confiabilidade">ES - Confiabilidade</a></td>
+<td></td>
+<td><a href="../../Modelagem/cenarios/#c01-realizar-cadastro">C01-Realizar cadastro</a> </br> <a href="../../Modelagem/cenarios/#c10-trocar-senha">C10 Trocar senha</a></td>
+<td></td>
+<td><a href="../../Modelagem/casos_de_uso/">UC01 Cadastrar usuário</a></td>
+<td><a href="../../Modelagem/BacklogDoProduto/HistoriasDeUsuario/epico01/#2-us02-logar">US02 Logar</a></td>
 </tr>
 <tr>
 <td align="center">07</td>
 <td>Notificações caso o sistema esteja fora do ar</td>
 <td><a href="../../Modelagem/NFR_framework/#nossa-avaliacao">NFR - Diagrama</a></td>
 <td></td>
+<td></td>
+<td><a href="../../Modelagem/cenarios/#c12-novidades">C12 Novidades</a></td>
+<td><a href="./../Modelagem/lexico.md#l10-notificacoes">L10 Notificações</a></td>
+<td><a href="../../Modelagem/casos_de_uso/">UC05 Acessar notificações</a></td>
+<td><a href="../../Modelagem/BacklogDoProduto/HistoriasDeUsuario/epico04/#1-us17-receber-notificacao">US17 Receber notificação</a></td>
 </tr>
 <tr>
 <td align="center">08</td>
 <td>O E-mail do usuário não pode se repetir</td>
 <td><a href="../../Modelagem/NFR_framework/#nossa-avaliacao">NFR - Diagrama</a></td>
 <td><a href="../../Modelagem/especificacao_suplementar/#confiabilidade">ES - Confiabilidade</a></td>
+<td></td>
+<td><a href="../../Modelagem/cenarios/#c01-realizar-cadastro">C01-Realizar cadastro</a></td>
+<td></td>
+<td><a href="../../Modelagem/casos_de_uso/">UC01 Cadastrar usuário</a></td>
+<td></td>
 </tr>
 <tr>
 <td align="center">09</td>
 <td>Manter a segurança de dados do usuário</td>
 <td><a href="../../Modelagem/NFR_framework/#nossa-avaliacao">NFR - Diagrama</a></td>
 <td><a href="../../Modelagem/especificacao_suplementar/#confiabilidade">ES - Confiabilidade</a></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td align="center">10</td>
 <td>O aplicativo deverá rodar em qualquer plataforma mobile</td>
 <td><a href="../../Modelagem/NFR_framework/#nossa-avaliacao">NFR - Diagrama</a></td>
 <td><a href="../../Modelagem/especificacao_suplementar/#suportabilidade">ES - Suportabilidade</a></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -1704,6 +1763,12 @@ feito a rastreabilidade do tipo forward-to no nosso projeto.
 <td>07/10/2021</td>
 <td>Adição de Tópicos</td>
 <td>Guilherme Vial</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>08/10/2021</td>
+<td>Metodologia e requisitos não funcionais</td>
+<td>Philipe Serafim e Guilherme Vial</td>
 </tr>
 </tbody>
 </table>
