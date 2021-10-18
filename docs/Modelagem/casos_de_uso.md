@@ -156,7 +156,7 @@ Diagrama destaca o caso de uso específico da elipse verde do diagrama acima, mo
 | Versão | Data       | Modificação                                  | Autor                             |
 | ------ | ---------- | -------------------------------------------- | --------------------------------- |
 | 1.0    | 29/08/2021 | Criação do documento, Introdução             | João Victor Valadão               |
-| 1.0    | 29/08/2021 | Criação dos diagramas                        | Gabriel Avelino e Ítalo Serra     |
+| 1.1    | 29/08/2021 | Criação dos diagramas                        | Gabriel Avelino e Ítalo Serra     |
 | 1.2    | 29/08/2021 | Criação das tabelas de caso de uso           | João Victor e Ítalo Serra         |
 | 1.3    | 29/08/2021 | Criação das tabela caso de uso "Mais Opções" | João Victor e Ítalo Serra         |
 | 1.4    | 29/08/2021 | Revisão do documento                         | Gabriel Avelino e Philipe Serafim |

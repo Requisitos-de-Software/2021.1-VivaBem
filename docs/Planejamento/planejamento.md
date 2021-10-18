@@ -116,7 +116,8 @@ As reuniões são agendadas toda semana para dividir tarefas e discutir sobre qu
 |  IV   |    Backlog do Produto     |                          Gabriel Avelino, João Victor e Ítalo Serra                          |       &#10004        |
 |  IV   |    História de Usuário    |                          Gabriel Avelino, João Victor e Ítalo Serra                          |       &#10004        |
 |   V   |        Verificação        | Gabriel Avelino, Guilherme Vial, Ítalo Serra, João Victor, Nathan Fernandes, Philipe Serafim |       &#10004        |
-|   V   |         Validação         |                                         Nathan Serra                                         |       &#10004        |
+|   V   |         Protótipo         |                                       Gabriel Avelino                                        |       &#10004        |
+|   V   |    Validação Informal     |                                         Nathan Serra                                         |       &#10004        |
 |  VII  |       Backward-From       |                          Gabriel Avelino, João Victor e Ítalo Serra                          |       &#10004        |
 |  VII  |        Forward-To         |                      Guilherme Vial, Nathan Fernandes e Philipe Serafim                      |       &#10004        |
 <figcaption>Tabela 3 - Tabela de Execução do Projeto</figcaption>

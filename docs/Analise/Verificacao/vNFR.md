@@ -48,4 +48,4 @@ Conforme a verificação, o documento de NFR Framework está de acordo com o pro
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 17/09/2021 | Criação do documento | Guilherme Vial |
-| 1.2 | 18/09/2021 | Verificação do NFR | Guilherme Vial |
+| 1.1 | 18/09/2021 | Verificação do NFR | Guilherme Vial |

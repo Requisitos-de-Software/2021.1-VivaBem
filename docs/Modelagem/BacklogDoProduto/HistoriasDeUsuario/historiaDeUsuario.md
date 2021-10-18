@@ -39,4 +39,4 @@ GLAUCO. User Stories - o que são? como usar?. Disponível em: https://blog.mysc
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 09/09/2021 | Criação das Histórias de usuários | Gabriel Avelino |
-| 2.0 | 10/09/2021 | Revisando o documento | Ítalo Serra |
+| 1.1 | 10/09/2021 | Revisando o documento | Ítalo Serra |
