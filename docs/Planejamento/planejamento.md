@@ -63,6 +63,7 @@ As reuniões são agendadas toda semana para dividir tarefas e discutir sobre qu
  | ![figma](../img/figma.png)                     | Figma                          | Editor gráfico de vetor e prototipagem de projetos de design.                                                                                          |
  | ![geradorPersonas](../img/geradorPersonas.png) | Fantástico Gerador de Personas | Ferramenta da rockcontent que provém a formatação e imagens para geração de personas.                                                                  |
  | ![miro](../img/miro.png)                       | Miro                           | Sendo um quadro branco infinito, o Miro permite que múltiplas pessoas anotem suas ideias e interaja com as anotações de outro membro.                  |
+ <figcaption>Tabela 1 - Softwares Utilizados</figcaption>
 
 ## <a>Cronograma</a>
 
@@ -89,7 +90,36 @@ As reuniões são agendadas toda semana para dividir tarefas e discutir sobre qu
 |   V    |     Análise de Requisitos      |  12/09-18/09  |                          Verificação e Validação                           |
 |   VI   |      Pré-Rastreabilidade       |  19/09-09/10  | Gerência de Desenvolvimento de Software orientada à baseline de Requisitos |
 |  VII   |         Projeto Final          |  10/10-20/10  |                Desenvolver a apresentação final do projeto                 |
+<figcaption>Tabela 2 - Planejamento das atividades</figcaption>
 
+### <a>Execução do projeto</a>
+
+| Etapa |         Artefato          |                                            Autor                                             | Seguiu o cronograma? |
+| :---: | :-----------------------: | :------------------------------------------------------------------------------------------: | :------------------: |
+|   I   |       Planejamento        |          João Victor, Gabriel Avelino, Ítalo Serra, Guilherme Vial, Philipe Serafim          |       &#10004        |
+|   I   |       Rich-Picture        |                                       Philipe Serafim                                        |       &#10006        |
+|  II   |   Análise de Protocolo    |                                       Nathan Fernandes                                       |       &#10004        |
+|  II   |       Brainstorming       | Gabriel Avelino, Guilherme Vial, Italo Serra, João Victor, Nathan Fernandes, Philipe Serafim |       &#10004        |
+|  II   |        Entrevistas        |                                       Philipe Serafim                                        |       &#10004        |
+|  II   |       Introspecção        |                                        Guilherme Vial                                        |       &#10004        |
+|  II   |         Personas          |                                       Philipe Serafim                                        |       &#10004        |
+|  II   |       Questionário        |                                       Gabriel Avelino                                        |       &#10004        |
+|  II   |        StoryBoards        |                                         João Victor                                          |       &#10004        |
+|  II   |   Requisitos Elicitados   |                                Gabriel Avelino e João Victor                                 |       &#10004        |
+|  II   |          MoSCoW           |                                        Guilherme Vial                                        |       &#10004        |
+|  II   |   Valor, Custo e Risco    |                                         Ítalo Serra                                          |       &#10004        |
+|  III  |       Casos de Uso        |                          Gabriel Avelino, João Victor e Ítalo Serra                          |       &#10004        |
+|  III  |         Cenários          |                          Gabriel Avelino, João Victor e Ítalo Serra                          |       &#10004        |
+|  III  |          Léxicos          |                                       Philipe Serafim                                        |       &#10004        |
+|  III  | Especificação Suplementar |                                Guilherme Vial e Nathan Serra                                 |       &#10004        |
+|  IV   |       NFR Framework       |                               Guilherme Vial e Philipe Serafim                               |       &#10004        |
+|  IV   |    Backlog do Produto     |                          Gabriel Avelino, João Victor e Ítalo Serra                          |       &#10004        |
+|  IV   |    História de Usuário    |                          Gabriel Avelino, João Victor e Ítalo Serra                          |       &#10004        |
+|   V   |        Verificação        | Gabriel Avelino, Guilherme Vial, Ítalo Serra, João Victor, Nathan Fernandes, Philipe Serafim |       &#10004        |
+|   V   |         Validação         |                                         Nathan Serra                                         |       &#10004        |
+|  VII  |       Backward-From       |                          Gabriel Avelino, João Victor e Ítalo Serra                          |       &#10004        |
+|  VII  |        Forward-To         |                      Guilherme Vial, Nathan Fernandes e Philipe Serafim                      |       &#10004        |
+<figcaption>Tabela 3 - Tabela de Execução do Projeto</figcaption>
 
 ## <a>Bibliografia</a>
 
@@ -101,12 +131,13 @@ As reuniões são agendadas toda semana para dividir tarefas e discutir sobre qu
 
 ## <a>Versionamento</a>
 
-|    Data    | Versão |                Alteração                | Responsável(eis) |
-| :--------: | :----: | :-------------------------------------: | :--------------: |
-| 03/08/2021 |  1.0   |          Criação do documento           |   João Victor    |
-| 03/08/2021 |  1.1   |         Adicionando metodologia         | Gabriel Avelino  |
-| 03/08/2021 |  1.2   |   Adicionando a tabela do cronograma    |   Ítalo Serra    |
-| 03/08/2021 |  1.3   |    Adicionado tabela de ferramentas     |  Guilherme Vial  |
-| 03/08/2021 |  1.4   |  Adicionado heatmap de disponibilidade  | Philipe Serafim  |
-| 04/08/2021 |  1.5   |    Adicionado video de apresentação     | Philipe Serafim  |
-| 19/08/2021 |  1.6   | Adicionado novas ferramentas utilizadas | Philipe Serafim  |
+|    Data    | Versão |                Alteração                 | Responsável(eis) |
+| :--------: | :----: | :--------------------------------------: | :--------------: |
+| 03/08/2021 |  1.0   |           Criação do documento           |   João Victor    |
+| 03/08/2021 |  1.1   |         Adicionando metodologia          | Gabriel Avelino  |
+| 03/08/2021 |  1.2   |    Adicionando a tabela do cronograma    |   Ítalo Serra    |
+| 03/08/2021 |  1.3   |     Adicionado tabela de ferramentas     |  Guilherme Vial  |
+| 03/08/2021 |  1.4   |  Adicionado heatmap de disponibilidade   | Philipe Serafim  |
+| 04/08/2021 |  1.5   |     Adicionado video de apresentação     | Philipe Serafim  |
+| 19/08/2021 |  1.6   | Adicionado novas ferramentas utilizadas  | Philipe Serafim  |
+| 18/10/2021 |  1.7   | Adicionada tabela de execução do projeto | Philipe Serafim  |
