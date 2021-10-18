@@ -78,5 +78,5 @@ O protótipo foi desenvolvido no Figma e pode ser acessado através deste <a hre
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 15/09/2021 | Criação do documento | Gabriel Avelino|
-| 2.0 | 16/09/2021 | Criação do protótipo | Gabriel Avelino |
-| 3.0 | 17/09/2021 | Revisão do documento| Ítalo Serra (Revisor) |
+| 1.1 | 16/09/2021 | Criação do protótipo | Gabriel Avelino |
+| 1.2 | 17/09/2021 | Revisão do documento| Ítalo Serra (Revisor) |
